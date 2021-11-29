@@ -1,22 +1,27 @@
 {
 	"mental-healts": [
-        {"tag": "salam_pembuka",
+        {   "tag": "salam_pembuka",
             "question": ["hai", "hallo", "apa kabar?"],
             "answer": ["hai", "hallo", "baik-baik saja, kamu bagaimana?"]
         },
-        { "tag": "salam_penutup", 
+        {   "tag": "salam_penutup", 
             "question": ["terimakasih", "sampai ketemu lagi"],
             "answer": ["sama-sama"]
         },   
-        { "tag": "pengertian_mental_health",
+        {
+            "tag": "tidak_ada_di_pertanyaan",
+            "question": [],
+            "answer": ["maaf pertanyaan tidak dimengerti", "silahkan ulangi pertanyaan", "maaf tidak ada informasi mengenai hal tersebut!", "maaf, tidak ada jawaban mengenai pertanyaan tersebut"]
+        },
+        {   "tag": "pengertian_mental_health",
             "question": ["Apa saja jenis-jenis gangguan mental?"],
             "answer": ["1. Depresi 2. Skizofrenia 3. gangguan kecemasan 4. Bipolar 5. gangguan tidur"]
         },
-        { "tag": "gelaja_kesehatan_mental", 
+        {    "tag": "gelaja_kesehatan_mental", 
             "question": ["Apa saja gejala-gejala gangguan mental?"],
             "answer": ["1. Berteriak atau berkelahi dengan keluarga dan teman-teman 2. Delusi, paranoid, atau halusinasi 3. Kehilangan kemampuan untuk berkonsentrasi 4. Ketakutan, kekhawatiran, atau perasaan bersalah yang selalu menghantui 5. Ketidakmampuan untuk mengatasi stress atau masalah sehari-hari 6, Marah berlebihan dan rentan melakukan kekerasan 7. Memiliki kenangan buruk dan pengalaman yang tidak dapat dilupakan"]
         },
-        { "tag": "pentingnya_kesehatan_mental", 
+        {    "tag": "pentingnya_kesehatan_mental", 
             "question": ["Apakah kesehatan mental itu penting?"],
             "answer": ["Kesehatan mental merupakan hal yang penting untuk dijaga dari mulai anak-anak hngga lanjut usia, ketika sesorang memiliki kesehatan mental yang prima maka akan memaksimalkan produktifitas kerjanya dan dapat perfikir secara positif"]
         },
