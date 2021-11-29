@@ -1,0 +1,128 @@
+{
+	"mental-healts": [
+        {"tag": "salam_pembuka",
+            "question": ["hai", "hallo", "apa kabar?"],
+            "answer": ["hai", "hallo", "baik-baik saja, kamu bagaimana?"]
+        },
+        { "tag": "salam_penutup", 
+            "question": ["terimakasih", "sampai ketemu lagi"],
+            "answer": ["sama-sama"]
+        },   
+        { "tag": "pengertian_mental_health",
+            "question": ["Apa saja jenis-jenis gangguan mental?"],
+            "answer": ["1. Depresi 2. Skizofrenia 3. gangguan kecemasan 4. Bipolar 5. gangguan tidur"]
+        },
+        { "tag": "gelaja_kesehatan_mental", 
+            "question": ["Apa saja gejala-gejala gangguan mental?"],
+            "answer": ["1. Berteriak atau berkelahi dengan keluarga dan teman-teman 2. Delusi, paranoid, atau halusinasi 3. Kehilangan kemampuan untuk berkonsentrasi 4. Ketakutan, kekhawatiran, atau perasaan bersalah yang selalu menghantui 5. Ketidakmampuan untuk mengatasi stress atau masalah sehari-hari 6, Marah berlebihan dan rentan melakukan kekerasan 7. Memiliki kenangan buruk dan pengalaman yang tidak dapat dilupakan"]
+        },
+        { "tag": "pentingnya_kesehatan_mental", 
+            "question": ["Apakah kesehatan mental itu penting?"],
+            "answer": ["Kesehatan mental merupakan hal yang penting untuk dijaga dari mulai anak-anak hngga lanjut usia, ketika sesorang memiliki kesehatan mental yang prima maka akan memaksimalkan produktifitas kerjanya dan dapat perfikir secara positif"]
+        },
+        { "tag": "menjaga_kesehatan_mental", 
+            "question": ["Bagaimana cara menjaga kesehatan mental?"],
+            "answer": ["1. Mengharagai diri sendiri 2. kelola stress dengan baik 3. Menetapkan tujuan yang realistis 4. mengakui perasaaan dan emosi neagtif 5. membantu orang lain 6. sayangi tubuh sendiri 7. menjalin hubungan dengan orang lain"]
+        },
+        { "tag": "menjaga_kesehatan_mental_remaja", 
+            "question": ["Bagaimana menjaga kesehatan mental diusia remaja?"],
+            "answer": ["1. Sadari bahwa kecemasanmu adalah hal yang wajar 2. Cari pengalihan 3. Temukan cara baru untuk berkomunikasi dengan teman-temanmu 4. Fokuslah pada dirimu 5. Selami perasaanmu 6. Berbaik hatilah kepada dirimu dan orang lain"]
+        },
+        { "tag": "ciri_kesehatan_mental", 
+            "question": ["Apa saja ciri-ciri mental yang sehat?"],
+            "answer": ["Kesehatan mental yang baik adalah kondisi ketika batin kita berada dalam keadaan tentram dan tenang, sehingga memungkinkan kita untuk menikmati kehidupan sehari-hari dan menghargai orang lain di sekitar."]
+        },
+        { "tag": "self_awareness", 
+            "question": ["Bagaimana cara meningkatkan self awareness?","Bagaimana melewati hari tanpa menyakiti diri?", "1. Bersihkan lingkungan anda dengan benda-benda yang dapat melukai 2. Ngobrol dengan teman 3. Siapkan kontak darurat: 4. Tuliskan keluh kesah anda 5. Olahraga 6. Menangis"],
+            "answer": ["dimulai dengan menghargai diri sendiri, melihat segala permasalahan dari sudut yang positif, rajin berolahraga, menjalin hubungan yang baik dengan orang lain, mensyukuri apa yang dimiliki, pola hidup sehat."]
+        },
+        { "tag": "emosi", 
+            "question": ["Bagaimana cara mengendalikan emosi?"],
+            "answer": ["selalu belajar untuk menerima semua masalah yang memang tidak bisa diatasi, bicarakan masalah Anda dengan orang yang Anda percayai agar dapat dibantu dalam hal mencari solusi, selalu berpikiran positif, luangkan waktu untuk menjalankan hobi Anda, relaksasi ( misal : meditasi, yoga, dll. ). Jika setelah melakukan cara - cara diatas kondisi yang Anda alami masih saja dirasakan, maka kami sangat menyarankan kepada Anda untuk segera menemui Dokter Spesialis kesehatan Jiwa / Psikiater agar dilakukan serangkaian penanganan lebih lanjut"]
+        },
+        { "tag": "keyakinan_diri", 
+            "question": ["Bagaimana cara meningkatkan self efficacy/keyakinan diri dan melakukan perencanaan dengan teknik SMART?", "Jika masih tetap belum memiliki keyakinan untuk tetap melakukan, apa rencana tersebut harus diurungkan atau tetap optimis dilakukan?"],
+            "answer": ["Pertama-tama identifikasi terlebih dahulu kenapa Anda tidak yakin melakukannya ? sebab ketidakyakinan bisa muncul disebabkan oleh berbagai faktor. Pastikan Anda siap melakukan rencana yang sudah Anda susun. Kesiapan seseorang dalam melakukan perencanaan akan berpengaruh pada keyakinannya untuk mewujudkan rencana tersebut.Beberapa hal yang dapat Anda lakukan dalam perencanaan, antara lain memahami betul tujuan dan kapasitas diri, mengeksplorasi lingkungan khususnya lingkungan yang menjadi tujuan rencana, merencanakan dan membuat keputusan, dan melakukan persiapan-persiapan yang yang memiliki hubungan yang signifikan dengan tujuan rencana (Latif, 12017). Jika Anda sudah melalui proses perencanaan yang baik, namun masih belum yakin ? Anda dapat meyakinkan diri Anda dengan beberapa hal berikut ini :" , "Sebelum menggagalkan sebuah rencana, Anda bisa kembali menilik rencana tersebut apakah sudah disusun dengan baik ? jika perencanaannya baik tujuan yang Anda ingin capai sangat mungkin untuk dilanjutkan. Berikut beberapa hal yang dapat Anda perhatikan dalam menyusun sebuah rencana : 1. Specific (Spesifik) Agar bisa lebih memperluas peluang Anda dalam mencapai tujuan ataupun target, cobalah untuk membuat tujuan yang lebih jelas dan spesifik, sehingga Anda bisa lebih fokus dan lebih merasa termotivasi dalam mencapai nya. 2. Measurable (Terukur) Cobalah untuk memiliki tujuan yang terukur yang mana Anda bisa memantau dan juga melacak setiap kemajuan yang Anda raih. Sehingga, Anda bisa lebih fokus lagi dalam memenuhi setiap tenggat waktu dan juga bisa lebih antusias saat semakin dekat dengan tujuan yang ingin Anda capai. 3. Achievable (Dapat dicapai) Walaupun Anda mampu menetapkan target yang tinggi, namun ingatlah bahwa untuk mencapai tujuan tersebut, Anda tetap harus realistis. Tujuan ataupun target yang realistis adalah saat Anda tahu bagaimana cara tujuan ataupun target Anda bisa diwujudkan dengan mengandalkan kemampuan, sumber daya dan juga peluang yang ada. 4. Relevant (Relevan) Cobalah untuk memastikan bahwa tujuan yang ingin Anda capai adalah tujuan yang penting dan juga sudah sesuai dengan nilai dan juga rencana jangka panjang bisnis Anda. Sehingga, Anda bisa tetap memegang kendali atas hal tersebut. 5. Time-bound atau Timely (Tepat waktu) Agar bisa tetap fokus dalam mencapai tujuan Anda, maka Anda harus menentukan tanggal yang menjadi target ataupun tenggat waktu Anda. Bila tidak dibatasi dengan baik, maka tidak akan ada rasa urgensi dan juga motivasi dalam mencapai tujuan."]
+        },
+        { "tag": "sabar", 
+            "question": ["Bagaimana cara bersabar?"],
+            "answer": ["mengendalikan diri dengan menahan amarah, mudah memanfaatkan orang lain, toleransi terhadap penundaan.gigih dalam mencapai tujuan Tabah dan bertahan dalam situasi sulit dan tidak mudah mengeluh menerima kenyataan pahit dengan bersyukur tenang dan tidak terburu-buru"]
+        },
+        { "tag": "percaya_diri", 
+            "question": ["Bagaimana meningkatkan kepercayaan diri?"],
+            "answer": ["membangun pola berpikir secara positif, mengenali kekurangan dan kelebihan diri sendiri sehinga bisa mengambangkan kemampuan dan menanggulangi kesalah yang sama, fokus dengan tujuan yang ingin dicapai dimulai dari hal hal kecil, berhenti membandingkan diri sendiri dengan orang lain, mencari circle yang positif, berusaha membangun hubungan sosial dengan orang lain, misal ikut komunitas sosial menjadi relawan acara tertentu yang bisa meningkatkan rasa percaya diri."]
+        },
+        { "tag": "komunikasi", 
+        "question": ["Bagaimana cara berkomunikasi yang baik?"],
+        "answer": ["Kemampuan berbicara di depan umum atau public speaking bukanlah kemampuan yang lahir dengan begitu saja karena kecakapan dalam berbicara merupakan sebuah proses. Dengan kata lain, keterampilan berbicara di depan umum ini akan semakin lancar dan sukses manakala yang bersangkutan selalu berlatih dan berlatih untuk mengasahnya. Respon tubuh seperti gemetar, berkeringat atau jantung berdebar merupakan respon alami tubuh ketika ia berada dalam kondisi yang tidak aman menurutnya. Jadi sebelum mulai berbicara Anda dapat berlatih untuk rileks dan mengatur pernapasan dengan baik, serta teruslah berpikir positif karena persepsi Anda yang negatif mengenai suatu hal akan semakin membuat Anda menjadi tidak percaya diri. Anda dapat mengatur posisi dan dan lingkungan yang nyaman untuk berbicara, selain itu hindari hal-hal yang membuat Anda terdistraksi atau terganggu sehingga Anda bisa lebih fokus dengan pikiran dan perasaan Anda saat hendak berbicara. Berikut beberapa saran yang dapat Anda lakukan untuk meningkatkan kepercayaan diri saat berbicara di depan umum sebagaimana disampaikan oleh Larasati (2009) antara lain: 1) positive thinking; 2) persiapan matang; 3) mulai dari sekarang; 4) rajin berlatih; 5) rajin membaca; dan 6) manfaatkan kesempatan."]
+        },
+        { "tag": "bipolar", 
+            "question": ["Apa itu gangguan bipolar?"],
+            "answer": ["Gangguan bipolar adalah gangguan mental yang ditandai dengan perubahan emosi yang drastis. Seseorang yang menderita bipolar dapat merasakan gejala mania (sangat senang) dan depresif (sangat terpuruk)."]
+        },
+        { "tag": "skizofrenia", 
+            "question": ["Apa yang dimasukan dengan Skizofrenia?"],
+            "answer": ["Skizofrenia adalah gangguan mental yang dapat memengaruhi tingkah laku, emosi, dan komunikasi. Penderita skizofrenia dapat mengalami halusinasi, delusi, kekacauan berpikir, dan perubahan perilaku."]
+        },
+        { "tag": "curhat", 
+            "question": ["Apakah bebagi cerita/curhat dengan orang lain itu penting ?", "Apa saja manfaat dari curhat atau bercerita?"],
+            "answer": ["mencurahkan hati/curhat mengenai hal buruk yang sedang dialami bisa membantu tekanan hidup, yang bisa membuat rasa bahagia. Curhat bisa menjadi solusi untuk mengurangi besban pikiran yang sedang dialami.", "memperkuat mental,  membantu melihat masalah yang berbeda, menemukan solusi yang tidak terpikirkan sebelumnya, menyelesaikan masalah dan melihat situasi secara lebih jelas , membantumu sadar akan kehadiran orang lain dan tidak merasa sendirian."]
+        },
+        { "tag": "hukum_kesehatan_jiwa", 
+            "question": ["Apakah ada undang-undang mengenai kesehatan jiwa?"],
+            "answer": ["Undang-Undang Nomor 18 Tahun 2014 tentang Kesehatan Jiwa"]
+        },
+        { "tag": "faktor_mental_health", 
+            "question": ["Apa saja faktor-faktor yang mempengaruhi kesehatan mental?"],
+            "answer": ["1. Biologis = dipengaruhi dari genetik, fisik, otak, sensorik, dan kondisi saat kehamilan. 2. Psikologis - Kehilangan - kekerasan dalam keluarga - kehilangan pekerjaan - Sosial Budaya - Mengalami perundungan - Kesepian atau isolasi sosial - lingkungan"]
+        },
+        { "tag": "pertolongan_pertama", 
+            "question": ["Hal apa yang dapat kita lakukan sebagai pertolong pertama untuk kerabat atau teman yang terkena gangguan mental?"],
+            "answer": ["1. A: Approach, assess and assist with any crisis (Dekati, Kaji dan Bantu terkait masalah yang dialami)  2. L : Listen non-judgementally (Dengarkan dengan tanpa menghakimi) 3. G: Give Support and Information (Berikan dukungan dan informasi) 4. E : Encourage appropriate professional help (Dorong untuk mendapat bantuan profesional yang tepat) 5. E : Encourage other support (Dorong utuk mendapat bantuan lainnya)"]
+        },
+        { "tag": "kesadaran_kesehatan_mental", 
+            "question": ["Bagaimana cara meningkatkan kesadaran masyarakat terhadap gangguan Mental?"],
+            "answer": ["Dengan melakukan edukasi terhadap masyarakat tentang awareness kesehatan mental, hal ini bertujuan untuk menyebarkan informasi tentnag kesehatan mental, sehingga dapat mengurangi penderita ganguan jiwa. Meningkat tenaga medis puskesmas (psikolog/psikiater)."]
+        },
+        { "tag": "sedih", 
+            "question": ["Kenapa saya tiba-tiba merasa sedih?"],
+            "answer": ["merasa sedih tanpa kejelasan dapat disebabkan oleh trauma masa lalu atau kondisi yang baru saja terjadi, sehingga dapat menimbulkan traumatik terhadap seseorang itu sendiri. Sehingga perlu dilakukan identifikasi terhadap masalah yang sedang dihadapi."]
+        },
+        { "tag": "mengatasi_nervous", 
+            "question": ["Bagaimana cara mengatasi supaya tidak nervous?"],
+            "answer": ["Lakukan relaksasi seperti latihan pernapasan, yoga atau lainnya Fokuskan pikiran untuk tenang dan berpikiran positif , Persiapkan segala sesuatunya dengan baik dan matang sehingga memiliki rasa percaya diri untuk bisa menghadapi hal yang membuat nervous seperti ujian, wawancara kerja, atau lainnya Minum segelas air putih bisa membantu mengalihkan pikiran Kelola stres dengan baik, konsultasikan dengan orang terdekat agar bisa mendapatkan solusi yang terbaik"]
+        },
+        { "tag": "faktor_lingkungan", 
+            "question": ["pengaruh faktor lingkungan"],
+            "answer": ["Lingkungan yang positif dapat memberikan dampak baik bagi jiwa, sedangkan tinggal di lingkungan penuh polusi dan berisik tanpa disadari akan mempengaruhi kesehatan mental."]
+        },
+        { "tag": "sosial_media", 
+            "question": ["Apakah sosial media berpengaruh dengan kesehatan mental?"],
+            "answer": ["sosial media memiliki dampak positif dan negatif, tetapi dibalik dampak positif ada sisi negatif yang bisa memicu depresi, kecemasan yang berlebihan yang berakibat kecanduan. Sehingga bisa merusak mental seseorang"]
+        },
+        { "tag": "mental_breakdown", 
+            "question": ["Apa itu mental breakdown?"],
+            "answer": ["mental brakdown merupakan gangguan yang menggambarkan stress terhadap emosional seseorang tidak berfungsi dengan baik ketika menjalani kehidupan sehari hari, yang mengakibatkan depresi."]
+        },
+        { "tag": "penyebab_gangguan_mental", 
+            "question": ["Apa saja yang menyebabkan gangguan kesehatan mental?"],
+            "answer": ["1. Cedera kepala 2. Faktor genetik atau terdapat riwayat pengidap gangguan mental dalam keluarga 3. Kekerasan dalam keluarga atau pelecahan lainnya 4. Kekerasa pada anak atau riwayat kekerasan pada masa anak-anak  5. Mengalami diskriminasi dan stigma"]
+        },
+        { "tag": "faktor_resiko_gangguan_mental", 
+            "question": ["Apa saja faktor risiko gangguan kesehatan mental?"],
+            "answer": ["1. Perempuan memiliki risiko tinggi mengidap depresi dan kecemasan, sedangkan laki-laki memiliki risiko mengidap ketergantungan zat dan antisosial 2. Perempuan setelah melahirkan 3. Memiliki masalah dimasa kanak-kanak atau masalah gaya hidup 4. Memiliki profesi yang memicu stres, seperti dokter dan pengusaha 5. Memiliki riwayat anggota keluarga atau keluarga dengan penyakit mental 6. Memiliki riwayat penyakit mental sebelumnya  7. Mengalami kegagalan dalam hidup, seperti sekolah atau kehidupan kerja 8. Menyalahgunakan alkohol atau obat-obat terlarang"]
+        },
+        { "tag": "pencegahan", 
+            "question": ["Apa saja peencegahan yang dapat dilakukan untuk mengurangi masalah terhadap kesahatan mental?"],
+            "answer": ["1. Melakukan aktivitas fisik dan tetap aktif secara fisik 2. Membantu orang lain dengan tulus 3. Memelihara pikiran yang positif 4. Memiliki kemampuan untuk mengatasi masalah 5. Menjaga hubungan baik dengan orang lain 6. Menjaga kecukupan tidur dan istirahat"]
+        },
+        { "tag": "solusi_kesehatan_mental", 
+            "question": ["Bagaimana mengobati gangguan kesehatan mental?"],
+            "answer": ["1. Psikoterapi, merupakan terapi bicara yang memberikan media yang aman untuk pengidap dalam  mengungkapkan perasaan dan meminta saran. 2. Obat-obatan, pemberian obat-obatan untuk mengobati penyakit mental umumnya bertujuan untuk mengubah senyawa kimia otak di otak. 3. Rawat inap, diperlukan jika pengidap membutuhkan pemantauan ketat terhadap gejala-gejala penyakit yang dialaminya.      4. Support grup, umumnya beranggotakan pengidap penyakit mental yang sejenis atau yang sudah dapat mengendalikan emosinya dengan baik. 5. Pengobatan terhadap penyalahgunaan zat, pengobatan ini dilakukan pada pengidap penyakit mental yang disebabkan oleh ketergantungan akibat penyalahgunaan zat terlarang6. Membuat rencana bagi diri sendiri, misalnya mengatur gaya hidup dan kebiasaan sehari-hari, untuk melawan penyakit mental."]
+        },
+        { "tag": "keyakinan_diri", 
+        "question": ["Jika masih tetap belum memiliki keyakinan untuk tetap melakukan, apa rencana tersebut harus diurungkan atau tetap optimis dilakukan?"],
+        "answer": ["Sebelum menggagalkan sebuah rencana, Anda bisa kembali menilik rencana tersebut apakah sudah disusun dengan baik ? jika perencanaannya baik tujuan yang Anda ingin capai sangat mungkin untuk dilanjutkan. Berikut beberapa hal yang dapat Anda perhatikan dalam menyusun sebuah rencana : 1. Specific (Spesifik) Agar bisa lebih memperluas peluang Anda dalam mencapai tujuan ataupun target, cobalah untuk membuat tujuan yang lebih jelas dan spesifik, sehingga Anda bisa lebih fokus dan lebih merasa termotivasi dalam mencapai nya. 2. Measurable (Terukur) Cobalah untuk memiliki tujuan yang terukur yang mana Anda bisa memantau dan juga melacak setiap kemajuan yang Anda raih. Sehingga, Anda bisa lebih fokus lagi dalam memenuhi setiap tenggat waktu dan juga bisa lebih antusias saat semakin dekat dengan tujuan yang ingin Anda capai. 3. Achievable (Dapat dicapai) Walaupun Anda mampu menetapkan target yang tinggi, namun ingatlah bahwa untuk mencapai tujuan tersebut, Anda tetap harus realistis. Tujuan ataupun target yang realistis adalah saat Anda tahu bagaimana cara tujuan ataupun target Anda bisa diwujudkan dengan mengandalkan kemampuan, sumber daya dan juga peluang yang ada. 4. Relevant (Relevan) Cobalah untuk memastikan bahwa tujuan yang ingin Anda capai adalah tujuan yang penting dan juga sudah sesuai dengan nilai dan juga rencana jangka panjang bisnis Anda. Sehingga, Anda bisa tetap memegang kendali atas hal tersebut. 5. Time-bound atau Timely (Tepat waktu) Agar bisa tetap fokus dalam mencapai tujuan Anda, maka Anda harus menentukan tanggal yang menjadi target ataupun tenggat waktu Anda. Bila tidak dibatasi dengan baik,maka tidak akan ada rasa urgensi dan juga motivasi dalam mencapai tujuan."]
+        }
+    ]
+}
