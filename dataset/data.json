@@ -1,5 +1,5 @@
 {
-	"mental-healts": [
+	"mental_healths": [
         {   "tag": "salam_pembuka",
             "question": ["hai", "hallo", "apa kabar?"],
             "answer": ["hai", "hallo", "baik-baik saja, kamu bagaimana?"]
