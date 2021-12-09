@@ -1,9 +1,13 @@
 {
 	"mental_healths": [
         {   "tag": "salam_pembuka",
-            "question": ["hai", "hallo", "apa kabar?"],
-            "answer": ["hai", "hallo", "baik-baik saja, kamu bagaimana?"]
+            "question": ["hai", "hallo"],
+            "answer": ["hai", "hallo"]
         },
+	{    "tag": "apa kabar",
+	     "question": ["apa kabar?", "bagaimana kabarmu?", "Apakah kamu baik-baik saja?"],
+	     "answer": ["baik-baik saja, kamu bagaimana?", "sehat-sehat", "baik-baik saja"]
+	},
         {   "tag": "salam_penutup", 
             "question": ["terimakasih", "sampai ketemu lagi"],
             "answer": ["sama-sama"]
