@@ -70,7 +70,7 @@
             "answer": ["Skizofrenia adalah gangguan mental yang dapat memengaruhi tingkah laku, emosi, dan komunikasi. Penderita skizofrenia dapat mengalami halusinasi, delusi, kekacauan berpikir, dan perubahan perilaku."]
         },
         { "tag": "curhat", 
-            "question": ["Apakah bebagi cerita/curhat dengan orang lain itu penting ?", "Apa saja manfaat dari curhat atau bercerita?"],
+            "question": ["Apakah berbagi cerita/curhat dengan orang lain itu penting ?", "Apa saja manfaat dari curhat atau bercerita?"],
             "answer": ["mencurahkan hati/curhat mengenai hal buruk yang sedang dialami bisa membantu tekanan hidup, yang bisa membuat rasa bahagia. Curhat bisa menjadi solusi untuk mengurangi besban pikiran yang sedang dialami.", "memperkuat mental,  membantu melihat masalah yang berbeda, menemukan solusi yang tidak terpikirkan sebelumnya, menyelesaikan masalah dan melihat situasi secara lebih jelas , membantumu sadar akan kehadiran orang lain dan tidak merasa sendirian."]
         },
         { "tag": "hukum_kesehatan_jiwa", 
