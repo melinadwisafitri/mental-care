@@ -38,8 +38,8 @@
             "answer": ["Kesehatan mental yang baik adalah kondisi ketika batin kita berada dalam keadaan tentram dan tenang, sehingga memungkinkan kita untuk menikmati kehidupan sehari-hari dan menghargai orang lain di sekitar."]
         },
         { "tag": "kesadaran_diri", 
-            "question": ["Bagaimana cara meningkatkan kesadaran diri?", "Bagaimana melewati hari tanpa menyakiti diri?"],
-            "answer": ["dimulai dengan menghargai diri sendiri, melihat segala permasalahan dari sudut yang positif, rajin berolahraga, menjalin hubungan yang baik dengan orang lain, mensyukuri apa yang dimiliki, pola hidup sehat.","1. Bersihkan lingkungan anda dengan benda-benda yang dapat melukai 2. Ngobrol dengan teman 3. Siapkan kontak darurat: 4. Tuliskan keluh kesah anda 5. Olahraga 6. Menangis"]
+            "question": ["Bagaimana cara meningkatkan kesadaran diri?", "Bagaimana melewati hari tanpa menyakiti diri?", "Bagaimana cara meningkatkan kesadaran masyarakat terhadap gangguan Mental?"],
+            "answer": ["dimulai dengan menghargai diri sendiri, melihat segala permasalahan dari sudut yang positif, rajin berolahraga, menjalin hubungan yang baik dengan orang lain, mensyukuri apa yang dimiliki, pola hidup sehat.","1. Bersihkan lingkungan anda dengan benda-benda yang dapat melukai 2. Ngobrol dengan teman 3. Siapkan kontak darurat: 4. Tuliskan keluh kesah anda 5. Olahraga 6. Menangis", "Dengan melakukan edukasi terhadap masyarakat tentang kesadaran atas kesehatan mental, hal ini bertujuan untuk menyebarkan informasi tentnag kesehatan mental, sehingga dapat mengurangi penderita ganguan jiwa. Meningkat tenaga medis puskesmas (psikolog/psikiater)."]
         },
         { "tag": "emosi", 
             "question": ["Bagaimana cara mengendalikan emosi?", "Mengendalikan emosi", "Cara agar tidak mudah emosi", "Bagaimana cara mengurangi emosi?"],
@@ -84,10 +84,6 @@
         { "tag": "pertolongan_pertama", 
             "question": ["Hal apa yang dapat kita lakukan sebagai pertolong pertama untuk kerabat atau teman yang terkena gangguan mental?", "Pertolongan pertama"],
             "answer": ["1. A: Approach, assess and assist with any crisis (Dekati, Kaji dan Bantu terkait masalah yang dialami)  2. L : Listen non-judgementally (Dengarkan dengan tanpa menghakimi) 3. G: Give Support and Information (Berikan dukungan dan informasi) 4. E : Encourage appropriate professional help (Dorong untuk mendapat bantuan profesional yang tepat) 5. E : Encourage other support (Dorong utuk mendapat bantuan lainnya)"]
-        },
-        { "tag": "kesadaran_kesehatan_mental", 
-            "question": ["Bagaimana cara meningkatkan kesadaran masyarakat terhadap gangguan Mental?"],
-            "answer": ["Dengan melakukan edukasi terhadap masyarakat tentang awareness kesehatan mental, hal ini bertujuan untuk menyebarkan informasi tentnag kesehatan mental, sehingga dapat mengurangi penderita ganguan jiwa. Meningkat tenaga medis puskesmas (psikolog/psikiater)."]
         },
         { "tag": "sedih", 
             "question": ["Kenapa saya tiba-tiba merasa sedih?", "Tiba-tiba sedih", "Saya tiba-tiba sedih"],
