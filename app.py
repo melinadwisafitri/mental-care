@@ -22,11 +22,11 @@ def chat_response():
 
 @app.route('/try', methods=['GET', "POST"])
 def try_it():
-    global response
+    global res
     if request.method == 'POST':
         name = request.form['question']
-        response = chat_system_api.chat_response(name)
-    return jsonify({"answer": response})
+        res = chat_system_api.chat_response(name)
+    return jsonify({"answer": res})
 
 
 if __name__ == '__main__':
