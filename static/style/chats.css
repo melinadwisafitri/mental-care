@@ -36,20 +36,19 @@
 {
     background-color: #FFBC97;
     border: 20px;
-    width: 8vh;
+    width: 4vh;
 }
 
 .avatar img{
     padding: 10%;
-    width: 8vh;
+    width: 4vh;
 }
 
 .chat-body
 {
     margin:3%;
+    height: 100%;
     overflow-y: auto;
-    overflow-x: hidden;
-    height: 400px;
 }
 
 .chat-body-system, .chat-body-user
@@ -80,6 +79,7 @@
 {
     background-color: #FF7800;
     padding: 2%;
+    bottom: 1px;
 }
 
 .chat-button input[type='text']
@@ -105,4 +105,61 @@
 .chat-button .button:hover{
     background-color: #FFBC97;
     color: #F7F7F7;
+}
+
+
+.chat-container
+{
+    max-width: 310px; 
+    padding: 1px;
+}
+
+.nav-item .item
+{
+    padding-left: 10%;
+    color: white;
+}
+
+.colors-white
+{
+    color: white;
+}
+
+.chats
+{
+    height: 300px; 
+    overflow-y: auto;
+}
+
+.chats #default-chats
+{
+    margin-top: 2.5%;
+}
+
+.chats .default-chat
+{
+    font-size: 10px;
+    background-color: #FFBC97;
+    border-radius: 20px 20px 20px 0;
+    padding-top: 2%;
+    text-align: justify;
+}
+
+.btn-chat-bot 
+{
+    padding: 10px;
+    background-color: #FF7800;
+
+}
+
+.btn-chat-bot .btn-color
+{
+    background-color: #FF7800;
+    margin-right: 2%;
+}
+
+.btn-chat-bot .btn-color .set-btn
+{
+    font-size: 1em;
+    color: white;
 }
