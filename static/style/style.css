@@ -1,0 +1,320 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&family=Merriweather:wght@300;400;900&family=Poppins:wght@300;700;900&family=Sora:wght@100;200;400;600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Titan+One&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+@font-face {
+  font-family: aloja;
+  src: url(/static/assets/font/aloja.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat";
+  font-weight: 400;
+  border-color: #f7f7f7;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 4em;
+  margin-bottom: 4em;
+  transition: 0.5s ease-in;
+  z-index: 9999999999;
+}
+
+.navigation .icon {
+  display: flex;
+  font-family: aloja;
+}
+
+.navigation ul {
+  display: none;
+  text-transform: uppercase;
+}
+
+.navigation ul li a {
+  text-decoration: none;
+  color: black;
+}
+
+header {
+  background-image: url(/static/assets/bg.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+.header-content-title {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 4em 1em 4em 1em;
+}
+
+header .header-content p {
+  font-size: 14px;
+  color: white;
+  font-weight: 500;
+}
+
+header .header-content .justify-center {
+  justify-content: center;
+  text-align: center;
+}
+
+header .header-content .justify-center h2 {
+  font-size: 28px;
+  font-family: "Titan One";
+  text-shadow: 1px 1px white;
+  color: #ff7800;
+  font-weight: 500;
+}
+
+header .header-content button span {
+  cursor: pointer;
+  position: relative;
+  transition: 0.4s;
+  display: inline-block;
+  color: white;
+}
+
+header .header-content button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20%;
+  transition: 0.4s;
+}
+
+header .header-content button:hover span {
+  padding-right: 20%;
+}
+
+header .header-content button:hover span:after {
+  opacity: 3;
+  right: 0;
+}
+
+.container .content{
+  padding: 40px;
+  justify-items: center;
+  align-items: center;
+}
+
+.colors
+{
+  text-align: justify;
+  justify-items: center;
+  background-color: rgba(255, 120, 0, 0.9);
+  color: white;
+}
+
+main section h3 {
+  font-family: "Lilita One";
+  text-transform: uppercase;
+  text-align: center;
+}
+
+main h3 {
+  font-family: "Titan One";
+  color: #ff7800;
+}
+
+main hr {
+  font-weight: 300;
+}
+
+main .about {
+  background-image: url(/static/assets/konsultasi.jpeg); 
+  background-repeat: no-repeat; 
+  background-size: cover;  
+  background-attachment: fixed;
+  margin-bottom: 2%;
+  color: #4e2704;
+  font-weight: 500;
+  padding: 5em 5em 5em 5em; 
+  filter: sepia(10%);
+}
+
+main .about .bg
+{
+  background-color: rgba(241, 172, 112, 0.7);
+   padding: 2% 8%;
+   text-align: justify;
+}
+
+main .about hr
+{
+  width: 20%;
+  border: 10px solid black;
+
+}
+
+main #deteksi-dini {
+  background-image: url(/static/assets/daun.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: 50vh;
+}
+
+main #deteksi-dini input {
+  margin-bottom: 20vh;
+}
+
+.btn-fixed
+{
+    display: block; 
+    position: fixed; 
+    z-index: 999999999; 
+    cursor: pointer; 
+    bottom: 2%;  
+    right: 30px;
+    padding: 0.6em;
+    width: 15%;
+    background-color: #ff7800;
+}
+
+.btn-fixed:hover
+{
+  background-color: #FFBC97;
+}
+
+.btn-fixed:before
+{
+  box-shadow: rgba(255, 80, 0, 0.3);
+}
+
+
+.card-1
+{
+  box-shadow: 5px 4px 6px 0 rgba(255, 80, 0, 0.3);
+  padding: 1% 0 0 0;
+  gap: 4;
+  margin: 3%;
+  text-align: center;
+}
+
+.card-1 p{
+  background-color: seashell;
+  margin-top: 10%;
+}
+
+.card-1 img
+{
+  width: 70%;
+}
+
+.card-form
+{
+  display: none;
+  position: fixed;
+  bottom: 10%;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  background-color: #f1f1f1;
+  z-index: 999999999999999;
+}
+
+.motivation
+{
+  background-image: url(/static/assets/konsultasi.jpeg); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  padding: 8em 5em 8em 5em; 
+  filter: sepia(40%); 
+  background-attachment: fixed;
+}
+
+.motivation .bg
+{
+  background-color: rgba(255, 255, 255, 0.4); 
+  padding: 5%;
+}
+
+.btn-group h5
+{
+  text-align: center;
+}
+
+.btn-group a
+{
+  text-decoration: none;
+  color: black;
+  padding-right: 20px;
+}
+
+@media screen and (min-width: 450px) {
+  .header .header-content {
+    background-size: 100vh;
+  }
+}
+
+@media screen and (min-width: 550px) {
+  .header-content {
+    background-size: 100vmax;
+  }
+
+  .header-content-title {
+    background-color: unset;
+  }
+
+  .navigation ul {
+    width: 60%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  header {
+    background-size: 60vmax;
+  }
+
+  .navigation {
+    background-color: #ff7800;
+    position: fixed;
+    width: 100%;
+    top: -80px;
+  }
+  .navigation ul {
+    display: flex;
+    list-style: none;
+    width: 30%;
+    justify-content: space-between;
+  }
+
+  .navigation .icon {
+    justify-items: flex-end;
+  }
+
+  header .header-content {
+    padding: 12% 1em 5em 10%;
+  }
+
+  header .header-content .justify-center {
+    justify-content: end;
+    text-align: justify;
+  }
+
+  header .header-content .justify-center h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+  }
+
+  header .header-content p {
+    font-size: 18px;
+    text-transform: lowercase;
+    color: black;
+  }
+
+  .btn-fixed
+  {
+    width: 6%;
+  }
+}
