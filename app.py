@@ -7,7 +7,7 @@ app = Flask(__name__, template_folder='template')
 
 @app.route('/', methods=["GET", "POST"])
 def home():
-    return render_template("chat.html")
+    return render_template("index.html")
 
 
 @app.route('/chatbot', methods=["GET", "POST"])
