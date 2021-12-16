@@ -24,9 +24,9 @@ def chat_response():
 def try_it():
     global response, name
     if request.method == 'POST':
-        name = request.form['question']
+        name = request.form['input-question']
         response = system_api.chat_response(name)
-        print(response)
+        print(name)
         return response, name
     else:
         return jsonify({"answer": response, "message": "ok", "question": name})
