@@ -9,7 +9,6 @@ class chatBott extends HTMLElement
     {
         this.innerHTML = `
         <div class="mt-2 card-form" id='chatbot-form'>
-        <form action="/try" method="POST">
                             <div class="chat-container">
                     <nav class="card-header navbar chat-header">
                         <ul class="navbar chat-header-item">
@@ -53,7 +52,6 @@ class chatBott extends HTMLElement
                         </div>
                     </div>
                 </div>
-               </form>
          </div>
         `
     }
