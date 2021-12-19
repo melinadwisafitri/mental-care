@@ -8,6 +8,7 @@ app = Flask(__name__, template_folder='template')
 @app.route('/', methods=["GET", "POST"])
 def home():
     return render_template("index.html")
+    # return render_template("index.html")
 
 
 @app.route('/chatbot', methods=["GET", "POST"])
@@ -24,10 +25,11 @@ def chat_response():
 def try_it():
     global response, name
     if request.method == 'POST':
-        name = request.form['input-question']
+        name = request.form['question']
+        # name = request.form['input-question']
         response = system_api.chat_response(name)
-        print(name)
-        return response, name
+        # print(name)
+        return render_template('index.html')
     else:
         return jsonify({"answer": response, "message": "ok", "question": name})
 
