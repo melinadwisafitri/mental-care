@@ -14,7 +14,7 @@
         },   
         {
             "tag": "tidak_ada_di_pertanyaan",
-            "question": [],
+            "question": [""],
             "answer": ["maaf pertanyaan tidak dimengerti", "silahkan ulangi pertanyaan", "maaf tidak ada informasi mengenai hal tersebut!", "maaf, tidak ada jawaban mengenai pertanyaan tersebut"]
         },
         {   "tag": "pengertian_mental_health",
