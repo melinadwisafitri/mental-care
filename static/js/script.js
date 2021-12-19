@@ -32,7 +32,7 @@ btn.addEventListener('click', () => {
        }
    }
 
-   xhr.open('POST', '/try', true)
+   xhr.open('POST', '/chat', true)
    xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded;charset=UTF-8')
    xhr.send('question=' + chat.value)
 //    xhr.send(JSON.stringify({question: chat.value}))
@@ -51,14 +51,15 @@ const getDataChat = () => {
        console.log(error)
    }
 
-   xhr.open("GET", '/try')
+   xhr.open("GET", '/chat')
    xhr.send()
 }
 
 const renderChat = (msg) => {
    const chatList = document.querySelector('#chats')
    const q = document.querySelector('#input-question').value
-   chatList.innerHTML +=  `<div class="chat-body-user row">
+   chatList.innerHTML +=  `
+   <div class="chat-body-user row">
        <div class="col-7">
            <div class="chat-body-user-text">
                <p>${q}</p>
@@ -69,15 +70,22 @@ const renderChat = (msg) => {
                <img src="static/assets/bot.png" alt="avatar-bot">
            </div>
        </div>
-   </div>
-   <div id='chat-default' class="chat-body-system row">
-       <div class="col-2">
-           <div class="avatar rounded-circle">
-               <img src="static/assets/bot.png" alt="avatar-bot">
-           </div>
-       </div>
-       <div class="col-7">
-           <div class="chat-body-system-text">
-               <p>${msg.answer}</p>
-       </div>`
+   </div>`
+   setTimeout(()=>{
+       chatList.innerHTML += `
+       <div id='chat-default' class="chat-body-system row">
+            <div class="col-2">
+                <div class="avatar rounded-circle">
+                    <img src="static/assets/bot.png" alt="avatar-bot">
+                </div>
+            </div>
+            <div class="col-7">
+                <div class="chat-body-system-text">
+                    <p>${msg.answer}</p>
+                </div>
+            </div>
+        </div>
+        `
+   }, 1000);
+   
 }
