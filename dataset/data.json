@@ -25,9 +25,9 @@
             "question": ["Apa saja jenis-jenis gangguan mental?", "Jenis-jenis gangguan mental", "Apa saja macam-macam gangguan mental?", "Macam-macam gangguan mental"],
             "answer": ["1. Depresi, 2. skizofrenia, 3. gangguan kecemasan, 4. Bipolar, 5. gangguan tidur"]
         }, 
-        {    "tag": "gejala_kesehatan_mental", 
+        {    "tag": "gejala_gangguan_mental", 
             "question": ["Apa saja gejala-gejala gangguan mental?", "gejala gangguan mental", "tanda-tanda gangguan mental", "Bagaimana mengetahui bahwa kita memiliki masalah kesehatan mental?", "Apa saja tanda-tanda gangguan mental?"],
-            "answer": ["1. Berteriak atau berkelahi dengan keluarga dan teman-teman 2. Delusi, paranoid, atau halusinasi 3. Kehilangan kemampuan untuk berkonsentrasi 4. Ketakutan, kekhawatiran, atau perasaan bersalah yang selalu menghantui 5. Ketidakmampuan untuk mengatasi stress atau masalah sehari-hari 6, Marah berlebihan dan rentan melakukan kekerasan 7. Memiliki kenangan buruk dan pengalaman yang tidak dapat dilupakan"]
+            "answer": ["1. Berteriak atau berkelahi dengan keluarga dan teman-teman 2. Delusi, paranoid, atau halusinasi 3. Kehilangan kemampuan untuk berkonsentrasi 4. Ketakutan, kekhawatiran, atau perasaan bersalah yang selalu menghantui 5. Ketidakmampuan untuk mengatasi stress atau masalah sehari-hari 6, Marah berlebihan dan rentan melakukan kekerasan 7. Memiliki kenangan buruk dan pengalaman yang tidak dapat dilupakan", "Terdapat berbagai macam gangguan jiwa antara lain: 1. Gangguan jiwa berat, 2. Gangguan suasana perasaan (gangguan mood), 3. Gangguan cemas, 4. Gangguan penyalahgunaan zat (narkoba), 5. Gangguan stres pasca trauma, 6. Gangguan Psikosomatik, 7. Gangguan Tidur (Insomnia), 8. Gangguan makan, 9. Gangguan seksual, 10. Gangguan Kepribadian, 11. Ganggaun Perkembangan pada anak seperti autisme dan gangguan berbicara, 12. Gangguan pemusatan perhatian dan hiperativitas, 13. Gangguan perilaku pada anak dan remaja, 14. Retardasi mental (keterbatasan intelektual)"]
         },
         {    "tag": "pentingnya_kesehatan_mental", 
             "question": ["Apakah menjaga kesehatan mental itu penting?", "Pentingnya menjaga kesehatan mental"],
@@ -42,8 +42,16 @@
             "answer": ["Kesehatan mental yang baik adalah kondisi ketika batin kita berada dalam keadaan tentram dan tenang, sehingga memungkinkan kita untuk menikmati kehidupan sehari-hari dan menghargai orang lain di sekitar."]
         },
         { "tag": "kesadaran_diri", 
-            "question": ["Bagaimana cara meningkatkan kesadaran diri?", "Bagaimana melewati hari tanpa menyakiti diri?", "Bagaimana cara meningkatkan kesadaran masyarakat terhadap gangguan Mental?"],
-            "answer": ["dimulai dengan menghargai diri sendiri, melihat segala permasalahan dari sudut yang positif, rajin berolahraga, menjalin hubungan yang baik dengan orang lain, mensyukuri apa yang dimiliki, pola hidup sehat.","1. Bersihkan lingkungan anda dengan benda-benda yang dapat melukai 2. Ngobrol dengan teman 3. Siapkan kontak darurat: 4. Tuliskan keluh kesah anda 5. Olahraga 6. Menangis", "Dengan melakukan edukasi terhadap masyarakat tentang kesadaran atas kesehatan mental, hal ini bertujuan untuk menyebarkan informasi tentnag kesehatan mental, sehingga dapat mengurangi penderita ganguan jiwa. Meningkat tenaga medis puskesmas (psikolog/psikiater)."]
+            "question": ["Bagaimana cara meningkatkan kesadaran diri?"],
+            "answer": ["dimulai dengan menghargai diri sendiri, melihat segala permasalahan dari sudut yang positif, rajin berolahraga, menjalin hubungan yang baik dengan orang lain, mensyukuri apa yang dimiliki, pola hidup sehat."]
+        },
+  	{   "tag": "menjaga_diri", 
+            "question": ["Bagaimana melewati hari tanpa menyakiti diri?"],
+            "answer": ["1. Bersihkan lingkungan anda dengan benda-benda yang dapat melukai 2. Ngobrol dengan teman 3. Siapkan kontak darurat: 4. Tuliskan keluh kesah anda 5. Olahraga 6. Menangis",]
+        },
+	{   "tag": "kesadaran_masyarakat", 
+            "question": ["Bagaimana cara meningkatkan kesadaran masyarakat terhadap gangguan Mental?"],
+            "answer": ["Dengan melakukan edukasi terhadap masyarakat tentang kesadaran atas kesehatan mental, hal ini bertujuan untuk menyebarkan informasi tentnag kesehatan mental, sehingga dapat mengurangi penderita ganguan jiwa. Meningkat tenaga medis puskesmas (psikolog/psikiater)."]
         },
         { "tag": "emosi", 
             "question": ["Bagaimana cara mengendalikan emosi?", "Mengendalikan emosi", "Cara agar tidak mudah emosi", "Bagaimana cara mengurangi emosi?"],
@@ -77,9 +85,13 @@
             "question": ["Apakah berbagi cerita/curhat dengan orang lain itu penting ?", "Apa saja manfaat dari curhat atau bercerita?"],
             "answer": ["mencurahkan hati/curhat mengenai hal buruk yang sedang dialami bisa membantu tekanan hidup, yang bisa membuat rasa bahagia. Curhat bisa menjadi solusi untuk mengurangi besban pikiran yang sedang dialami.", "memperkuat mental,  membantu melihat masalah yang berbeda, menemukan solusi yang tidak terpikirkan sebelumnya, menyelesaikan masalah dan melihat situasi secara lebih jelas , membantumu sadar akan kehadiran orang lain dan tidak merasa sendirian."]
         },
+	{ "tag": "manfaat_cerita", 
+            "question": ["Apa saja manfaat dari curhat atau bercerita?"],
+            "answer": ["Memperkuat mental,  membantu melihat masalah yang berbeda, menemukan solusi yang tidak terpikirkan sebelumnya, menyelesaikan masalah dan melihat situasi secara lebih jelas , membantumu sadar akan kehadiran orang lain dan tidak merasa sendirian."]
+        },	
         { "tag": "hukum_kesehatan_jiwa", 
             "question": ["Apakah ada undang-undang mengenai kesehatan jiwa?", "UU kesehatan mental", "Undang undang kesehatan mental"],
-            "answer": ["Undang-Undang Nomor 18 Tahun 2014 tentang Kesehatan Jiwa"]
+            "answer": ["Undang-Undang Nomor 18 Tahun 2014 tentang Kesehatan Jiwa (https://www.hukumonline.com/pusatdata/detail/lt5421550be624e/undang-undang-nomor-18-tahun-2014/document)"]
         },
         { "tag": "faktor_mental_health", 
             "question": ["Apa saja faktor-faktor yang mempengaruhi kesehatan mental?", "Faktor kesehatan mental", "Faktor-faktor kesehatan mental"],
@@ -124,6 +136,46 @@
         { "tag": "solusi_kesehatan_mental", 
             "question": ["Bagaimana mengobati gangguan kesehatan mental?", "Bagaimana solusi dari gangguan kesehatan mental?", "Bagaimana mengurangi gangguan kesehatan mental?", "Kemana kita dapat berkonsultasi mengenai kesehatan mental?"],
             "answer": ["1. Psikoterapi, merupakan terapi bicara yang memberikan media yang aman untuk pengidap dalam  mengungkapkan perasaan dan meminta saran. 2. Obat-obatan, pemberian obat-obatan untuk mengobati penyakit mental umumnya bertujuan untuk mengubah senyawa kimia otak di otak. 3. Rawat inap, diperlukan jika pengidap membutuhkan pemantauan ketat terhadap gejala-gejala penyakit yang dialaminya.      4. Support grup, umumnya beranggotakan pengidap penyakit mental yang sejenis atau yang sudah dapat mengendalikan emosinya dengan baik. 5. Pengobatan terhadap penyalahgunaan zat, pengobatan ini dilakukan pada pengidap penyakit mental yang disebabkan oleh ketergantungan akibat penyalahgunaan zat terlarang6. Membuat rencana bagi diri sendiri, misalnya mengatur gaya hidup dan kebiasaan sehari-hari, untuk melawan penyakit mental."]
-        }
+        },
+	{   "tag": "gangguan_jiwa", 
+            "question": ["Apa itu gangguan jiwa?"],
+            "answer": ["Gangguan jiwa adalah gangguan dalam pikiran, perilaku, dan perasaan yang bermanifestasi dalam bentuk sekumpulan gejala atau perubahan perilaku yang bermakna, yang dapat menimbulkan  penderitaan dan hambatan bagi orang yang mengalaminya dalam  menjalankan fungsi keseharian."]
+        },
+	{   "tag": "gangguan_jiwa_berat", 
+            "question": ["Apa itu gangguan jiwa berat?"],
+            "answer": ["Gangguan jiwa berat adalah salah satu gangguan jiwa yang ditandai dengan ketidakmampuan seseorang untuk mengenali realita, proses pikir yang kacau, pembicaraan yang kacau, perilaku yang aneh atau tidak bertujuan, serta penarikan diri dari lingkungan. Orang dengan gangguan jiwa sering mengakami halusinasi yaitu mendengar sesuatu yang tidak ada sumbernya atau melihat sesuatu yang sebenarnya tidak ada. Orang dengan gangguan jiwa juga sering memiliki pikiran yang tidak sesuai dengan kenyataan seperti merasa ada orang menjahati dirinya, yakin dibicarakan oleh orang lain, merasa memiliki kekuatan tertentu, dan lain-lain."]
+        }, 
+	{ "tag": "mengobati_gangguan_jiwa", 
+            "question": ["Apakah gangguan jiwa berat dapat diobati?"],
+            "answer": ["Gangguan jiwa berat dapat diobati dengan cara pemberian obat-obatan medis dan disertai dengan penanganan non-obat seoerti konseling dan psikoterapi. Beberapa orang dengan gangguan jiwa berat mungkin membutuhkan perawatan inap di rumah sakit jiwa atau pusat pelayanan kesehatan yang memiliki fasilitas penangan untuk gangguan jiwa berat?"]
+        },
+	{ "tag": "penyebab_bipolar", 
+            "question": ["Apakah penyebab gangguan bipolar?", "penyebab gangguan bipolar", "penyebab bipolar"],
+            "answer": ["Ya, gangguan jiwa berat dapat diobari dengan cara pemberian obat-obatan medis dan disertai dengan penanganan non-obat seoerti konseling dan psikoterapi. Beberapa orang dengan gangguan jiwa berat mungkin membutuhkan perawatan inap di rumah sakit jiwa atau pusat pelayanan kesehatan yang memiliki fasilitas penangan untuk gangguan jiwa berat?"]
+        },
+	{ "tag": "gejala_bipolar", 
+            "question": ["Apa saja gejala bipolar?", "gejala bipolar"],
+            "answer": ["Bipolar menyebabkan perubahan suasana hati, yang dapat mengakibatkan seseorang sangat senang (mania) atau sangat sedih (depresif). Tanda-tanda dan gejala kondisi mania: - Meningkatnya energi, aktifitas, gelisah - Suasana hati gembira - Sangat mudah tersinggung - Sulit konsentrasi - Berbicara cepat, pikiran semrawut - Kesulitan tidur/insomnia - Perilaku seksual yang meningkat - Penyalahgunaan obat-obatan, seperti kokain, alkohol dan obat tidur - Perilaku provokatif, mengganggu atau agresif - Selalu membantuh jika ada kesalahan. Tanda-tanda dan gejala kejadian depresif: - Suasana hati yang sedih, cemas, atau kosong - Perasaan putus asa dan pesimis. - Perasaan bersalah, tidak berharga dan tidak berdaya - Kehilangan minat atau kesenangan dalam kegiatan yang pernah dinikmati, termasuk seks - Energi berkurang, kelelahan - Kesulitan berkonsentrasi, mengingat atau membuat keputusan - Gelisah dan mudah tersinggung - Tidur terlalu banyak - Perubahan nafsu makan, penurunan atau kenaikan berat badan yang tidak diinginkan - Pikiran kematian atau keinginan bunuh diri."]
+        },
+	{ "tag": "diagnosa_bipolar", 
+            "question": ["Bagaimana mendiagnosa gangguan bipolar?", "diagnosa gangguan bipolar"],
+            "answer": ["Penyakit bipolar tidak bisa didiagnosa melalui darah ataupun pemindaian otak. Saat ini, bipolar didiagnosis melalui tanda-tanda dan gejala, perjalanan penyakit dan sejarah kesehatan keluarga. Dokter biasanya mendiagnosa menggunakan pedoman dari Diagnostic and Statistical Manual of Mental Disorders (DSM), atau di Indonesia menggunakan PPDGJ-III (Pedoman Penggolongan Diagnosis Gangguan Jiwa). Gejala yang paling signifikan bagi seorang mania atau depresi adalah perubahan sikap yang tidak biasanya."]
+        },
+	{ "tag": "tipe_bipolar", 
+            "question": ["Apa saja tipe gangguan bipolar?", "tipe gangguan bipolar"],
+            "answer": ["Terdapat 4 tipe dasar gangguan bipolar: a. Gangguan Bipolar I : ditandai dengan manik depresif, yaitu adanya perubahan mood yang cenderung drastis. Penderita bisa mengalami mania, yaitu kesenangan dan kegembiraan yang berlebihan, aktivitas fisik berlebihan, banyak bicara, dan penurunan kebutuhan tidur. Mulai mengalami depresi, perubahan suasana hati normal, berubah sedih yang mendalam, cepat marah, mudah tersinggung, tidak sabar, dan cepat berubah pikiran. b. Gangguan Bipolar II: Penderita gangguan bipolar II cenderung memiliki energi yang sangat rendah, kesehatan mental dan fisik yang agak terbelakang. Hal ini diikuti dengan kelelahan yang berlebihan karena hipersomnia, yaitu gangguan tidur yang ditandai oleh kebutuhan untuk tidur berlebihan atau kantuk yang tiba-tiba. c. Gangguan Bipolar Tidak Ada yang Ditentukan Khusus (BP-NOS): didiagnosis ketika seseorang memiliki gejala penyakit yang tidak memenuhi kriteria diagnostik untuk bipolar I atau II. Gejala-gejalanya mungkin tidak cukup lama, atau orang tersebut mungkin memiliki terlalu sedikit gejala, untuk didiagnosis dengan bipolar I atau II. Namun, gejalanya jelas di luar rentang perilaku normal seseorang. d. Gangguan Siklotimik, atau Siklotimia: gangguan ini mengacu kepada siklus hipo-mania, yaitu kegembiraan yang berlebihan dalam jangka waktu lama dengan gejala depresi yang tidak begitu kentara. Bahkan mungkin orang dengan gangguan ini tidak terlihat depresi sama sekali. Namun pada akhirnya, penderita cyclothymia akan mengembangkan bipolar 1 atau 2 yang parah. Ini adalah ketika seseorang memiliki empat atau lebih episode depresi berat, mania, hypomania, atau gejala campuran dalam setahun."]
+        },
+	{ "tag": "penanganan_bipolar", 
+            "question": ["Bagaimana solusi penangan bagi penderita gangguan bipolar?", "solusi gangguan bipolar", "penangan penderita gangguan bipolar"],
+            "answer": ["Gangguan bipolar dapat ditangani dengan berkonsultasi ke dokter kejiwaan, lalu dilanjutkan dengan psikoterapi, dan juga pemberian obat. Dokter akan memberi obat juga melakukan psikoterapi individual dan psikoedukasi pada ODB dan keluarga. Dukungan positif dari keluarga sangat diharapkan. Terdapat beberapa metode Psikoterapi yang biasa digunakan untuk menangani gangguan bipolar: 1. Interpersonal and Social Rhythm Therapy (IPSRT) Metode yang terokus pada kestabilan ritme aktifitas sehari-hari. Dengan teraturnya ritme dalam beraktifitas dapat membantu pasien untuk mengendalikan gejala bipolar. 2. Cognitive Behavioral Therapy (CBT) Dengan CBT atau terapi perilaku kognitif dokter membantu pasien dalam mendeteksi hal yang dapat memicu gejala bipolar, dan menggantinya dengan sesuatu yang positif. 3. Psychoeducation Dokter akan mengedukasi hal-hal yang perlu diketahui terkait kondisi yang tengah diderita. Dengan ini, pasien dapat mengidentifikasi sendiri gejala bipolar dan membuat srategi penanganan gangguan bipolar. 4.  gaya hidup:-  Berhenti mengonsumsi alcohol dan narkotika - Mengurangi konsumsi makanan dan minuman yang mengandung kafein - Jalin hubungan yang sehat dan positif - Atur rutinitas yang sehat: tidur cukup, konsumsi makanan bergizi - Penuhi kebutuhan cairan 5. Pemberian obat dapat digunakan untuk meredakan gejala gangguan bipolar meliputi: - Moodstabilizer - Antikonvulsan - Antipsikotik - Antidepresan yang diberikan dengan pertimbangan yang sangat hati-hati"]
+        },
+	{ "tag": "gangguan_bipolar", 
+            "question": ["Bagaimana jika penderita gangguan bipolar tidak diobati?", "penderita gangguan bipolar tidak diobat"],
+            "answer": ["Jika tidak ditangan, pasien gangguan bipolar dapat menyebabkan keparahan, makin sulit disembuhkan kembali seperti sebelum sakit, menambah risiko bunuh diri, kualitas hidup menurun. ODB akan dilihat sebagai tidak wajar dan ini akan menambah stigma dan diskriminasi pada yang bersangkutan. Dampaknya tidak hanya secara mental, tetapi juga berdampak pada otak. Jika tidak diterapi, akan terjadi pengurangan massa otak yang disebabkan ketidakseimbangan neurotransmiter di sel-sel saraf.Kemampuan berpikir otak akan menurun, dan akan mengalami kemunduran sel-sel otak."]
+        },
+	{ "tag": "peran_keluarga_gangguan_bipolar", 
+            "question": ["Apakah peran keluarga bagi pasien gangguan bipolar"],
+            "answer": ["Keluarga memiliki peranan penting dalam kondisi ini. Pertama-tama keluarga perlu menerima apa adanya penderita ini. Karena tidak seorang pun yang menghendaki ini terjadi padanya. Lalu, keluarga wajib mengenal dan mengetahui cara menangani kondisi pasien, maka keluarga dapat dapat membantu pasien dalam mencegah dan mengendalikan munculnya gejala. Keluarga juga dapat mendukung dengan komunikasi dengan pasien dan juga terapis. Selain itu keluarga juga dapat membantu mengawasi dan mengingatkan jadwal konsumsi obat. Terakhir, namun yang terpenting adalah dengan bersikap empati kepada pasien."]
+        },
     ]
 }
