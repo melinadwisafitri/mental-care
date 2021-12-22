@@ -180,6 +180,102 @@
 	{ "tag": "komunikasi", 
             "question": ["Bagaimana cara berkomunikasi yang baik?", "Bagaimana cara berkomunikasi yang efektif?", "Komunikasi yang baik dapat dilakukan dengan", "Bagaimana meningkat kemampuan berkomunikasi?"],
             "answer": ["Kemampuan berbicara di depan umum atau public speaking bukanlah kemampuan yang lahir dengan begitu saja karena kecakapan dalam berbicara merupakan sebuah proses. Dengan kata lain, keterampilan berbicara di depan umum ini akan semakin lancar dan sukses manakala yang bersangkutan selalu berlatih dan berlatih untuk mengasahnya. Respon tubuh seperti gemetar, berkeringat atau jantung berdebar merupakan respon alami tubuh ketika ia berada dalam kondisi yang tidak aman menurutnya. Jadi sebelum mulai berbicara Anda dapat berlatih untuk rileks dan mengatur pernapasan dengan baik, serta teruslah berpikir positif karena persepsi Anda yang negatif mengenai suatu hal akan semakin membuat Anda menjadi tidak percaya diri. Anda dapat mengatur posisi dan dan lingkungan yang nyaman untuk berbicara, selain itu hindari hal-hal yang membuat Anda terdistraksi atau terganggu sehingga Anda bisa lebih fokus dengan pikiran dan perasaan Anda saat hendak berbicara. Berikut beberapa saran yang dapat Anda lakukan untuk meningkatkan kepercayaan diri saat berbicara di depan umum sebagaimana disampaikan oleh Larasati (2009) antara lain: 1) positive thinking; 2) persiapan matang; 3) mulai dari sekarang; 4) rajin berlatih; 5) rajin membaca; dan 6) manfaatkan kesempatan."]
+        },
+	{
+            "tag": "penyebab_pikiran_ubah_ubah",
+            "question": ["Saya merasa sadar bahwa saya melakukan perbuatan dengan cuma basa-basi atau setingan, sehingga ketika saya memberikan tumpangan awalnya senang hati, tetapi memiliki niatan lain, bagaimaan mengatasi hal tersebut?", "Kenapa yang saya lakukan bukan seperti saya senidiri?"],
+            "answer" : ["Kondisi seperti merasa dikendalikan atau digerakkan oleh sesuatu ataupun seseorang, dapat merupakan salah satu tanda waham dimana seseorang meyakini hal-hal yang tidak nyata atau tidak sesuai dengan keadaan sebenarnya. Walaupun sudah terbukti bahwa kenyataan yang ia yakini tidak benar, namun ia tetap berpegang teguh pada pemikirannya dan menganggap bahwa apa yang diyakininya tersebut benar atau nyata. Namun diagnosis yang tepat belum dapat dipastikan pada kondisi anda, dikarenakan dokter perlu melakukan pemeriksaan meliputi wawancara medis mengenai riwayat penyakit sebelumnya, riwayat pengobatan, riwayat penyakit pada keluarga, dan keluhan penyerta lainnya. Selain itu, dokter juga perlu melakukan pemeriksaan fisik dan pemeriksaan penunjang jika memang diperlukan. Maka dari itu, sebaiknya anda berkonsultasi lebih lanjut dengan dokter psikiater untuk dilakukan pemeriksaan dan penanganan yang sesuai"],
+            "url": "https://www.alodokter.com/komunitas/topic/gangguan-pikiran1a0bde"
+        },
+        {
+            "tag": "trauma_hilang_ingatan",
+            "question": ["Cara mengatasi trauma masa lalu yang mengakibatkan hilang ingatan", "mengatasi trauma yang bisa mengakibatkan hilang ingatan"],
+            "answer" : ["sebaiknya datanglah ke psikiater. dan ada bebrapa saran yang untuk mengendalikan diri sehingga tidak terjadi trauma: \nTarik napas dalam perlahan selama lima detik, tahan lima detik, keluarkan perlahan selama lima detik\nPusatkan pikiran pada aktivitas yang Anda jalani\nMenerapkan metode 3-3-3\nHindari minuman berkafein dan beralkohol\nBercerita kepada orang yang dekat dan Anda percaya\n Sediakan waktu untuk diri Anda sendiri, lakukan hal menyenangkan yang Anda sukai\nIstirahat cukup, 7-8 jam per hari\nMakan yang teratur dan bergizi, serta minum air mineral yang cukup"],
+            "url": "https://www.alodokter.com/komunitas/topic/takut-terkena-gangguan-jiwa-parah-lagi"
+        },
+        {
+            "tag": "penyebab_trauma",
+            "question": ["Apa saja penyebab trauma yang mengakibatkan hilang ingatan?", "apa saja penyebab trauma"],
+            "answer" : ["Adanya riwayat trauma masa lalu\nGangguan kepribadian\nAmnesia\nGangguan phobia\nPengaruh lingkungan sosial"],
+            "url": "https://www.alodokter.com/komunitas/topic/takut-terkena-gangguan-jiwa-parah-lagi"
+        },
+        {
+            "tag": "tertawa_ketika_canggung",
+            "question": ["kenapa saya tertawa ketika berbicara atau mengobrol dalam keadaan canggung", "mengapa ketika saya canggung mudah tertawa?"],
+            "answer" : ["tertawa merupakan response postiif, Selain itu pada beberapa orang akan memberikan respon ketawa saat mereka gugup/ canggung. Hal tersebut merupakan suatu mekanisme dari tubuh untuk merespon suatu kondisi. Hal tersebut merupakan hal yang wajar, sehingga tidak peru dikhawatirkan. Namun apabila dirasa keluhan yang anda rasakan menganggu aktivitas sehari-hari diharapkan untuk bertemu dengan psikiater. Penegakkan diagnosis diperlukan wawancara pemeriksaan fisik dan pemeriksaan penunjang. Adapun beberapa hal yang dapat dilakukan dirumah yakni mengelola stres dengan baik, sering berkomunikasi dengan sesama. Terimakasih semoga membantu."],
+            "url": "https://www.alodokter.com/komunitas/topic/kenapa-saya-suka-tertawa-sendiri-saat-merasa-canggung-"
+        },
+        {
+            "tag": "gejala_gangguan_kecemasan",
+            "question": ["Apa saja gejala dari gangguan kecemasan", "apa saja kondisi dari gangguan kecemasan?"],
+            "answer" : ["Gejala gangguan kecemasan antara lain:/nMunculnyarasa cemas yang berlebihanterhadap berbagai kondisi yang tidak khas/nMunculnya pikiran yang berlebihan tentang rencana dan solusi untuk setiap kemungkinan terburuk yang belum tentu muncul\nMudah merasa tersinggung, gelisah, gugup, dan tersudut/nRagu-ragu, takut, dan sulit untuk mengambil suatu keputusan\nSulit untuk berkonsentrasi"],
+            "url": "https://www.alodokter.com/komunitas/topic/selalu-merasa-tidak-tenang-dan-cemas"
+        },
+        {
+            "tag": "tidak_enakan",
+            "question": ["kenapa saya merasa tidak enakan, sering menangis dan mersa tertekan? bagaimana saya mengatasinya?"],
+            "answer" : ["gejalan tersebut dapat desebabkan oleh beberapa kemungkinan seperti: \nGangguan depresi\ngangguan bipolar\ngangguan kecemasan\nada beberapa faktor yang memepengaruhi seperti trauma gangguan psikologis, tekanan sosial dll. Apabila menggangu kehidupan sehari-hari maka segera konsultasikan ke pskolog atau psikiater untuk mengetahui permasalahan dan memberikan terapi yang sesuai."],
+            "url": "https://www.alodokter.com/komunitas/topic/mental91ad8f"
+        },
+        {
+            "tag": "AHD",
+            "question": ["Apa yang disebut AHD?", "apa itu AHD", "Apakah AHD bisa diderita Orang dewasa?"],
+            "answer" : ["ADHD adalah sekumpulan gejala dan tanda gangguan psikologis yang utamanya menyangkut gangguan fokus dan konsentrasi. Orang dengan ADHD memiliki kemampuan mempertahankan fokus yang singkat sehingga tidak jarang mengalami perubahan mood seperti bosan atau mudah tersinggung. Gejala lain yang juga menonjol adalah impulsif, dimana seseorang melakukan sesuatu tanpa dipikirkan matang-matang, tidak terpikir konsekuensi. Orang dengan ADHD seringkali terlihat sulit duduk atau berdiri diam, sering menyela pembicaraan orang lain, dan melakukan kegiatan fisik yang tidak bertujuan. Kondisi ADHD sulit dibedakan dengan spektrum autisme karena gejala dan tandanya mirip.", "ADHD tidak dapat berkembang mulai dewasa. ADHD selalu terjadi sejak kecil, namun kadangkala tidak terdiagnosis hingga dewasa. Saat kecil seorang anak mungkin menunjukkan gejala ADHD namun gejalanya tersamar karena anak masih berada dalam kontrol perilaku oleh orang tua dan masih berada dalam struktur sekolah yang cenderung teratur. Saat beranjak dewasa dimana perilaku sudah tidak dikontrol orang tua dan seseorang berada pada lingkungan kampus atau kantor yang lebih bebas strukturnya dibanding sekolah, maka gejala dapat mulai tampak lebih jelas."],
+            "url": "https://www.alodokter.com/komunitas/topic/apa-ada-kemungkinan-orang-dewasa-mengidap-adhd"
+        },
+        {
+            "tag": "gangguan_kepribadian",
+            "question": ["Apa saja faktor yang diduga dapat meningkatkan resiko gangguan kepribadian?", "faktor meningkatkan gangguan kepribadian"],
+            "answer" : ["Ada beberapa faktor yang dapat menjadi resiko gangguan kepribadian antara lain:\n Memiliki kelainan pada struktur otak atau komposisi kimia di dalam otak \nMenghabiskan masa kecil di dalam kehidupan keluarga yang tidak harmonis \nMemiliki perasaan sering diabaikan sejak masa kanak-kanak\nMengalami pelecehan sejak kanak-kanak, baik secara verbal maupun fisik \nMemiliki tingkat pendidikan yang rendah \nMenjalani hidup di tengah keluarga yang mengalami kesulitan ekonomi"],
+            "url": "https://www.alodokter.com/komunitas/topic/did294a85"
+        },
+        {
+            "tag": "DID_pengertian",
+            "question": ["Apa itu DID?", "Apakah DID merupakan bagian dari alam bawah sadar kita?", "bagaiamana mengatasi resiko dari DID?"],
+            "answer" : ["DID atau Dissociative Identity Disorder, yang lebih dikenal juga dengan kepribadian ganda, adalah suatu kondisi ketika dalam tubuh seseorang merasa ada kepribadian yang berbeda.Kepribadian tersebut bahkan bentuknya bisa betul-betul orang yang berbeda, dengan logat yang berbeda, usia yang berbeda, bahkan kelamin yang berbeda. Belum diketahui secara jelas penyebabnya. ", "DID merupakan salah satu gangguan kepribadian, gangguan kepribadian merupakan salah satu jenis penyakit mental. Kondisi ini menyebabkan penderitanya memiliki pola pikir dan perilaku yang tidak normaldan sulit untuk diubah. Penderita gangguan kepribadian juga mengalamikesulitanuntuk memahami situasi dan orang lain", "Anda sebaiknya Anda segera ke dokter (psikiater) untuk menanyakan kondisi Anda."],
+            "url": "https://www.alodokter.com/komunitas/topic/did294a85"
+        },
+        {
+            "tag": "mengandalikan_emosi",
+            "question": ["Saya sering merasa sedih dan menangis tiba-tiba, marah sendiri dan mersa tidak dihargai. Bagiamana saya mengatasi hal tersebut?", "bagaimana saya mengurangi menangis sendiri?"],
+            "answer" : ["Perasaan marah, sedih adalah hal yang normal, jika merasa emosi yang positif maka kamu akan melakukan tindakan postif pula, begitupun sebaliknya, Anda dapat melakukan pengendalian emosi dan menghindari situasi yang membuat anda meerasa emosi negatif lakukanlah aktivitas yang membuat anda gembira sehingga meningkatkan keprcayaan diri, menjaga komunikasi dengan sekitar dan sahabat sehingga bisa membantu  membuat nyaman untuk berbagi cerita./nJika setelah menjalankan beberapa saran di atas anda masih sulit mengendalikan emosi negatif, maka sebaiknya anda berkonsultasi lebih lanjut dengan psikolog untuk mendapatkan arahan yang tepat."],
+            "url": "https://www.alodokter.com/komunitas/topic/cara-mengelola-amarah"
+        },
+        {
+            "tag": "mengatasi_mood_swing",
+            "question": ["Bagaiamana mengatasi mood swing?", "hari ini saya bahagia dan besok susah bagaimana mengatasinya?"],
+            "answer" : ["Masalah tersebut dapat dipicu oleh pernyakit tertentu atau faktor tertentu,  misalnya mengalami trauma, adanya masalah tertentu, dan sebagainya. Untuk mengetahui keluhan yang dialami dan apabila keluhan saat ini sudah mengganggu aktivitas sehari-hari, sebaiknya melakukan pemeriksaan ke psikiater ataupun ke psikolog agar diketahui penyebab keluhan dan kemudian mendapatkan penanganan segera. \nSementara itu sebaiknya istirahat cukup, melakukan aktivitas yang disenangai, makan-makanan bergizi, dan sebagainya."],
+            "url": "https://www.alodokter.com/komunitas/topic/mental577ea9"
+        },
+        {
+            "tag": "penyebab_ingin_menangis_dan_tidak_nyaman",
+            "question": ["Bagaimana mengatasi sering menangis dan tidak nyamana, ketika menengar orang lain berbicara atau menghela nafas?"],
+            "answer" : ["Ada bebrapa hal yang bisa saja terjadi diantaranya \n 1. Masalah emosional \n trauma masa lalu \n masalah kesehatan kepribadian, \n masalah kesehatan mental \n tekanan hidup \n maka sebaiknya anda data ke psikolog atau dokter jiwa sehingga bisa mendapat penanganan. \n untuk sekarang cobalah untuk tenang dan rileks terhhadap diri sendiri, jagalah kesehatan fisik dan makan makanan yang begizi serta istirahat yang cukup, semoga membantu."],
+            "url": "https://www.alodokter.com/komunitas/topic/gangguan-mental22edac"
+        },
+        {
+            "tag": "menolong_teman_broken_home",
+            "question": ["Bagaimana membantu anak yang broken_home?", "ada teman yang memiliki masalah, kerena perceraian orang tuanya, bagaimana menolong teman itu?"],
+            "answer" : ["tetap menemani di masa sulitnya, sehingga dapat berbicara dan bercerita dengan anda, sehingga tidak terlalu kesepian dan sendirian. Kamu juga bisa mengajak untuk meenemukan hobi baru sehingga tidak menjadikannya mengarah ke hal negatif seperti merokok, alkohol dll. Anda juga bisa mencarikan lembaga atau yayasan non-profit yang memfokuskan pada penyintasbroken home, untuk berkonsultasi lebih lanjut mengenai broken home, juga ajak teman anda untuk berkonsultasi dengan psikolog."],
+            "url": "https://www.alodokter.com/komunitas/topic/apa-yang-harus-dilakukan-untuk-membantu-anak-yang-mengalami-broken"
+        },
+        {
+            "tag": "trauma_masa_lalu",
+            "question": ["Bagaimana mengatasi trauma masa lalu?", "mengatasi trauma"],
+            "answer" : ["Sebaiknya lakukanlah pemeriksaann secara langsung ke psikiater, keluhan yang di alami akibat peristiwa traumatis yang sampai sekarang masih anda ingat kemungkinan kondisi yang anda alami berupa suatu gangguan stres pascatrauma (PTSD) gangguan ini merupakan gangguan mental yang muncul setelah seseorang mengalami atau menyaksikan peristiwa yang tidak menyenangkan, selain itu bisa dengan bercerita dengan keluarga atau orang terdekat terhadap peristiwa yang membuat traumatis, teruslah produktif dan melakukan hal positif"],
+            "url": "https://www.alodokter.com/komunitas/topic/pelecehan-seksual--perceraian-orgtua"
+        },
+        {
+            "tag": "depresi",
+            "question": ["Depresi adalah?", "apa yang dimaksud dengan depresi?", "depresi merupakan?"],
+            "answer" : ["Depresi merupakan penyakit psikologis gangguan mod atau suasana hati yang ditandai dengan rasa sedih mendalam, tidak peduli dan putus asa/harapan lebih dari 2 minggu/lebih."],
+            "url": "https://www.alodokter.com/komunitas/topic/ciri-ciri-depresi8b70f4"
+        },
+        {
+            "tag": "keinginan_bunuh_diri",
+            "question": ["kenapa Sering merasa kesepian dan ingin bunuh diri?", "sedih tanpa sebab dan keinginan bunuh diri"],
+            "answer" : ["mungkin keluhan anda memiliki kemungkinan depresi, sebaiknya konsultasi ke psikiater agar mendapat penanganan yang tepat."],
+            "url": "https://www.alodokter.com/komunitas/topic/ciri-ciri-depresi8b70f4"
         }
     ]
 }
