@@ -1,5 +1,4 @@
-from flask import Flask, render_template, Response, jsonify, request
-import os
+from flask import Flask, render_template, jsonify, request
 import system_api
 
 app = Flask(__name__, template_folder='template')
@@ -9,17 +8,16 @@ app = Flask(__name__, template_folder='template')
 def home():
     return render_template("index.html")
 
+
 @app.route('/chat', methods=['GET', "POST"])
 def try_it():
-    global response, name
+    global response, question
     if request.method == 'POST':
-        name = request.form['question']
-        # name = request.form['input-question']
-        response = system_api.chat_response(name)
-        # print(name)
+        question = request.form['question']
+        response = system_api.chat_response(question)
         return render_template('index.html')
     else:
-        return jsonify({"answer": response, "message": "ok", "question": name})
+        return jsonify({"answer": response, "question": question, "message": "200"})
 
 
 if __name__ == '__main__':
