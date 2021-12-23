@@ -17,13 +17,10 @@ class chatBott extends HTMLElement
                                 <img src="/static/assets/logo-bot.png" alt="avatar-bot">
                             </li>
                             <li class="nav-item chat-header-name">
-                                <h4>Melbo</h4>
+                                <h4>Tellbot</h4>
                             </li>
                         </ul>
                         <ul class="navbar">
-                            <li class="nav-item">
-                                <a href="index.html" class="fa fa-info"></a>
-                            </li>
                             <li class="nav-item item">
                                 <button class="btn colors-white" id="btn-btn"><i class="fa fa-close"></i></button>
                             </li>
