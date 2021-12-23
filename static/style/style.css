@@ -115,6 +115,24 @@ header .header-content button:hover span:after {
   height: 400px;
 }
 
+.p-1
+{
+  text-align: center;
+  padding-top: 0.2em;
+}
+
+.h5-services
+{
+  text-align: center;
+  font-size: 1em;
+}
+
+.p-2
+{
+  text-align: justify;
+  font-size: 12px;
+}
+
 .colors
 {
   text-align: justify;
