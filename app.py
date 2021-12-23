@@ -1,5 +1,5 @@
 from flask import Flask, render_template, jsonify, request
-import system_api
+import systemChat
 import os
 
 app = Flask(__name__, template_folder='template')
@@ -15,7 +15,7 @@ def try_it():
     global response, question
     if request.method == 'POST':
         question = request.form['question']
-        response = system_api.chat_response(question)
+        response = systemChat.chat_response(question)
         return render_template('index.html')
     else:
         return jsonify({"answer": response, "question": question, "message": "200"})
