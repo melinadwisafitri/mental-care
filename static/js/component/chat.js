@@ -1,7 +1,8 @@
 class chatBott extends HTMLElement
 {
 
-    connectedCallback(){
+    connectedCallback()
+    {
         this.render()
     }
 
@@ -9,7 +10,7 @@ class chatBott extends HTMLElement
     {
         this.innerHTML = `
         <div class="mt-2 card-form" id='chatbot-form'>
-                            <div class="chat-container">
+            <div class="chat-container">
                     <nav class="card-header navbar chat-header">
                         <ul class="navbar chat-header-item">
                             <li class="nav-item avatar rounded-circle">
