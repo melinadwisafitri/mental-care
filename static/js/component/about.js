@@ -8,11 +8,16 @@ class aboutChat extends HTMLElement
     render()
     {
         this.innerHTML = `
-        <div class="bg">
-            <h3>about</h3>
-            <hr>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet fuga corporis dolorum id eos atque officia quos sed. Dignissimos sit eius recusandae temporibus assumenda error rem. Consequuntur earum iure excepturi? Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente modi adipisci dicta doloribus numquam minima alias illo velit placeat atque quos reiciendis, iure sed, ea doloremque quaerat iste, inventore recusandae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet cupiditate in repudiandae architecto error mollitia tempora libero a, cumque facere iste, animi molestiae excepturi suscipit cum fugit hic sapiente saepe?</p>
-        
+        <section id="about" class="about">
+            <div class="bg">
+                <h3>about</h3>
+                <hr>
+                <p> Tellbot merupakan sebuah website yang menyediakan informasi mengenai kesehatan mental. Tellbot juga menyediakan fitur chat yang akan dijawab oleh bot untuk bertanya mengenai kesehatan mental. 
+                <br>
+                Mengenali kesehatan mental pada diri merupakan salah satu bentuk kepedulian terhadap diri sendiri. Dengan begitu, kita dapat lebih mengenal dan mengontrol diri. 
+                </p>
+            </div>
+        </section>
         `
     }
 }
