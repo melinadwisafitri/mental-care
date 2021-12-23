@@ -1,0 +1,166 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.chat-header
+{
+    background-color: #FF7800; 
+    padding-bottom: 0;
+    color: #F7F7F7;
+}
+
+.chat-header a{
+    text-decoration: none;
+    color: #F7F7F7;
+}
+
+.chat-header li{
+    list-style: none;
+}
+
+.chat-header .chat-header-name
+{
+    padding-left: 10px;
+}
+
+.chat-header .chat-header-item
+{
+    padding: 0;
+}
+
+.avatar
+{
+    background-color: #FFBC97;
+    border: 20px;
+    width: 4vh;
+}
+
+.avatar img{
+    padding: 10%;
+    width: 4vh;
+}
+
+.chat-body
+{
+    margin:3%;
+    height: 100%;
+    overflow-y: auto;
+}
+
+.chat-body-system, .chat-body-user
+{
+    margin-bottom:5%;
+    font-size: 10px;
+}
+
+.chat-body-user
+{
+    justify-content: right;
+
+}
+
+.chat-body-system .chat-body-system-text{
+    background-color: #FFBC97;
+    border-radius: 20px 20px 20px 0px;
+
+}
+
+.chat-body-user .chat-body-user-text{
+    background-color: #FFBC97;
+    border-radius: 20px 20px 0px 20px;
+    padding: 2%;
+    justify-content: right;
+}
+
+.chat-button
+{
+    background-color: #FF7800;
+    padding: 2%;
+    bottom: 1px;
+}
+
+.chat-button input[type='text']
+{
+    border-radius: 20px;
+    border: 0;
+}
+
+.chat-button input[type='text']:focus
+{
+    background-color: #FFBC97;
+    border: none;
+}
+
+.chat-button .button
+{
+    background-color: white;
+    margin-left: 1%;
+    color: #FF7800;
+    cursor: pointer;
+}
+
+.chat-button .button:hover{
+    background-color: #FFBC97;
+    color: #F7F7F7;
+}
+
+
+.chat-container
+{
+    max-width: 310px; 
+    padding: 1px;
+}
+
+.nav-item .item
+{
+    padding-left: 10%;
+    color: white;
+}
+
+.colors-white
+{
+    color: white;
+}
+
+.chats
+{
+    height: 300px; 
+    overflow-y: auto;
+}
+
+.chats #default-chats
+{
+    margin-top: 2.5%;
+}
+
+.chats .default-chat
+{
+    font-size: 10px;
+    background-color: #FFBC97;
+    border-radius: 20px 20px 20px 0;
+    padding-top: 2%;
+    text-align: justify;
+}
+
+.btn-chat-bot 
+{
+    padding: 10px;
+    background-color: #FF7800;
+
+}
+
+.btn-chat-bot .btn-color
+{
+    background-color: #FF7800;
+    margin-right: 2%;
+}
+
+.btn-chat-bot .btn-color .set-btn
+{
+    font-size: 1em;
+    color: white;
+}
