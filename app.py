@@ -1,5 +1,6 @@
 from flask import Flask, render_template, jsonify, request
 import system_api
+import os
 
 app = Flask(__name__, template_folder='template')
 
@@ -21,4 +22,4 @@ def try_it():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host="0.0.0.0")
+    app.run(debug=True)
