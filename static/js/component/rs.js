@@ -11,12 +11,11 @@ class dataRs extends HTMLElement
     render()
     {
         this.innerHTML = `
-        <div class="col">
-         <div class="col card-1">
-            <img src='${this._rs10.image}' alt="${this._rs10.kota}" style="width:100px">
+         <div class="card-1" style="padding:0.5em">
+            <img src='${this._rs10.image}' alt="${this._rs10.kota}">
             <p>${this._rs10.name}</p>
         </div>
-        </div>`
+        `
     }
 }
 

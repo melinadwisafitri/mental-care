@@ -3,8 +3,6 @@ import './rs.js';
 class rsList10 extends HTMLElement
 {
 
-    
-
     set rs10(rs)
     {
         this._rs10 = rs;
@@ -16,6 +14,7 @@ class rsList10 extends HTMLElement
         this.innerHTML = '';
         this._rs10.forEach((rs)=>{
             const item = document.createElement("rs-data");
+            item.classList.add("col")
             item.rs10= rs;
             this.appendChild(item)
         })
