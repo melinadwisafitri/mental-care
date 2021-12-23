@@ -54,6 +54,7 @@
 .chat-body-system, .chat-body-user
 {
     margin-bottom:5%;
+    font-size: 10px;
 }
 
 .chat-body-user
@@ -62,13 +63,13 @@
 
 }
 
-.chat-body .chat-body-system-text{
+.chat-body-system .chat-body-system-text{
     background-color: #FFBC97;
     border-radius: 20px 20px 20px 0px;
-    padding: 2%;
+
 }
 
-.chat-body .chat-body-user-text{
+.chat-body-user .chat-body-user-text{
     background-color: #FFBC97;
     border-radius: 20px 20px 0px 20px;
     padding: 2%;
