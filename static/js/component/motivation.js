@@ -8,9 +8,12 @@ class motivationData extends HTMLElement
     render()
     {
         this.innerHTML = `
-        <div class="bg">
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto repudiandae ad ipsum ut, exercitationem architecto ipsa voluptates quisquam, quos iure illo natus accusantium voluptatum quae tenetur aspernatur eius quia obcaecati.</p>
-            <p>author</p>
+        <div class="motivation">
+            <div class="bg">
+                <p>“Out of suffering have emerged the strongest souls, the most massive characters are seared with scars.”
+                </p>
+                <p><i>— Khalil Gibran<i></p>
+            </div>
         </div>
         `
     }
