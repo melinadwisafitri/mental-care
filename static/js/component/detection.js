@@ -8,7 +8,7 @@ class detectionBegin extends HTMLElement {
             <h3>Deteksi Dini</h3>
             <hr>
             <div class="row content">
-                <div class="col-sm">
+                <div class="col-sm colors-1">
                     <p>Deteksi dini gangguan mental dapat membantu kita untuk mengenali gangguan mental pada diri serta dapat memutuskan langkah untuk pengobatan selanjutnya.</p>
                 </div>
                 <div class="col-sm colors">
