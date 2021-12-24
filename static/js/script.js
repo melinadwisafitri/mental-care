@@ -33,3 +33,22 @@ function activeNav(){
 activeNav();
 window.addEventListener("scroll", activeNav)
 
+const menu = document.querySelector(".menu-btn");
+const nav = document.querySelector(".navigate");
+const icon = document.querySelector(".icon");
+let open = false;
+menu.addEventListener("click", ()=>{
+    if (!open){
+    menu.classList.add('open');
+    open = true
+    nav.style.display = "flex";
+    icon.style.display = "none"
+
+}else{
+    menu.classList.remove('open')
+    open = false
+    nav.style.display = "none"
+    icon.style.display = "flex"
+}
+})
+
