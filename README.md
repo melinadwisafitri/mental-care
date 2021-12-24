@@ -5,7 +5,7 @@ Branch berisi file yang berkaitan dengan proses front-end, proses dimulai dengan
 Wireframe figma dapat diakses di [link](https://www.figma.com/file/qlvEJALjXDxm3muCfyHlM8/chatbot?node-id=0%3A1)
 
 Dalam proses implementasi model ke web digunakan library flask dari phyton, sebagai back-end. untuk membuat api.
-dalam sistem prediksi di file systemChat kami mengembangkan dari httphttps://github.com/jerrytigerxu/Simple-Python-Chatbots://github.com/jerrytigerxu/Simple-Python-Chatbot
+dalam sistem prediksi di file systemChat kami mengembangkan dari https://github.com/jerrytigerxu/Simple-Python-Chatbots://github.com/jerrytigerxu/Simple-Python-Chatbot
 
 Adapun library yang digunakan yaitu:
 - tensorflow
