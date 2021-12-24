@@ -60,6 +60,6 @@ const renderChat = (msg) => {
             </div>
         </div>
         `
-   }, 3000);
+   }, 800);
    
 }
