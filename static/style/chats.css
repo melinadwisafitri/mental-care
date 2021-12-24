@@ -34,14 +34,14 @@
 
 .avatar
 {
-    background-color: #FFBC97;
+    /* background-color: #FFBC97; */
     border: 20px;
-    width: 4vh;
+    width: 6vh;
 }
 
 .avatar img{
-    padding: 10%;
-    width: 4vh;
+    padding: 5%;
+    width: 6vh;
 }
 
 .chat-body
@@ -150,17 +150,23 @@
 {
     padding: 10px;
     background-color: #FF7800;
+    margin: 1%;
 
 }
 
 .btn-chat-bot .btn-color
 {
     background-color: #FF7800;
-    margin-right: 2%;
 }
 
 .btn-chat-bot .btn-color .set-btn
 {
     font-size: 1em;
     color: white;
+}
+
+.btn-chat-bot .rounded-pill
+{
+    font-size: 12px;
+    padding: 1%;
 }
