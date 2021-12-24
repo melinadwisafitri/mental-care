@@ -9,18 +9,21 @@
         <link rel="icon" href="/static/assets/logo-bot.png">
     </head>
     <body>
-        <button id="btn-chat" class="btn" ><i class="fa fa-comments btn-fixed rounded-circle" style="font-size: 2em;"></i></button>
+        <button id="btn-chat" class="btn btn-chat-" ><i class="fa fa-comments btn-fixed rounded-circle"></i></button>
         <header>
             <nav id="navbar-column" class="navigation">
-                <ul>
-                    <li class="links rounded-circle"><a href="#home">Home</a></li>
-                    <li class="links rounded-circle"><a href="#about">About</a></li>
-                    <li class="links rounded-circle"><a href="#deteksi-dini">Detection</a></li>
-                    <li class="links rounded-circle"><a href="#rs">RS</a></li>
-                    <li class="links rounded-circle"><a href="#contact">contact</a></li>
+                <ul class="navigate">
+                    <li class="links rounded-pill"><a href="#home" style="color: beige;">Home</a></li>
+                    <li class="links rounded-pill"><a href="#about" style="color: beige;">About</a></li>
+                    <li class="links rounded-pill"><a href="#deteksi-dini" style="color: beige;">Detection</a></li>
+                    <li class="links rounded-pill"><a href="#rs" style="color: beige;">RS</a></li>
+                    <li class="links rounded-pill"><a href="#contact" style="color: beige;">contact</a></li>
                 </ul>
                 <div class="icon">
                     <h1>tellbot</h1>
+                </div>
+                <div class="menu-btn">
+                    <div class="menu-btn__list"></div>
                 </div>
             </nav>
             <div id="home" class="container header-content">
@@ -35,7 +38,7 @@
             </section>
             <motiv1-content id="motivation-1"></motiv1-content>
             <section  id="rs" class="container" style="margin-top:5%">
-                <h3>Daftar Lokasi Rumah Sakit di Indonesia</h3>
+                <h3>Daftar Rumah Sakit di Indonesia</h3>
                 <rs-list-10 class="row"></rs-list-10>
                 <div class="row">
                     <a href="">read more</a>

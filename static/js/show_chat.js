@@ -50,7 +50,7 @@ const renderChat = (msg) => {
        <div id='chat-user' class="chat-body-system row">
             <div class="col-2">
                 <div class="avatar rounded-circle">
-                    <img src="static/assets/bot.png" alt="avatar-bot">
+                    <img src="static/assets/telbot-nobg.png" alt="avatar-bot">
                 </div>
             </div>
             <div class="col-8">

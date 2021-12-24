@@ -13,6 +13,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: "Montserrat";
   font-weight: 400;
@@ -21,10 +22,15 @@ body {
 
 .navigation {
   display: flex;
-  justify-content: space-around;
   align-items: center;
-  height: 4em;
-  margin-bottom: 4em;
+  align-content: center;
+  justify-content: space-around;
+  position: fixed;
+  top: 0;
+  color: bisque;
+  background-color: #ff7800;
+  width: 100%;
+  /* margin-bottom: 4em; */
   transition: 0.5s ease-in;
   z-index: 9999999999;
 }
@@ -32,17 +38,94 @@ body {
 .navigation .icon {
   display: flex;
   font-family: aloja;
+  color: bisque;
 }
 
 .navigation ul {
   display: none;
   text-transform: uppercase;
+  background-color: #ff7800;
+  list-style: none;
+  justify-content: space-between;
+  margin-top: 20%;
+  flex-direction: column;
+  right: 20%;
+}
+
+.navigation li{
+  padding: 2%;
+}
+
+.navigation ul li:hover
+{
+  display: inline-block;
+  background-color: black;
+}
+
+.btn-chat-
+{
+  font-size: 1.3em;
+}
+
+.navigation .navigate
+{
+  width: 30%;
+  height: 100vmax;
 }
 
 .navigation ul li a {
   text-decoration: none;
   color: black;
-  transition: all linear 0.3s;
+}
+
+.menu-btn
+{
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+.menu-btn__list
+{
+    width: 40px;
+    height: 4px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgba(255, 255, 255, 0.5);
+}
+
+.menu-btn__list::before,
+.menu-btn__list::after
+{
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 4px;
+    background-color: black;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px rgba(255, 255, 255, 0.5);
+    transition: all .3s ease-out;
+}
+.menu-btn__list::before{
+    transform: translateY(-10px);
+}
+
+.menu-btn__list::after
+{
+    transform: translateY(10px);
+}
+
+.menu-btn.open .menu-btn__list{
+    transform: translateX(-50px);
+    background: transparent;
+    box-shadow: none;
+}
+
+.menu-btn.open .menu-btn__list::before{
+    transform: rotate(45deg) translate(35px, -35px);
+}
+
+.menu-btn.open .menu-btn__list::after
+{
+    transform: rotate(-45deg) translate(35px, 35px);
 }
 
 header {
@@ -133,14 +216,25 @@ header .header-content button:hover span:after {
   font-size: 12px;
 }
 
-.colors
+.colors, .colors-1
 {
   text-align: justify;
   justify-content: center;
+  padding: 4%;
+}
+
+.colors
+{
+  background-color: transparent;
+  color: black;
+}
+
+.colors-1
+{
   background-color: rgba(255, 120, 0, 0.9);
   color: white;
-  height: 300px;
 }
+
 
 main section h3 {
   font-family: "Lilita One";
@@ -195,10 +289,6 @@ main #deteksi-dini {
   background-repeat: no-repeat;
   background-size: 50vh;
 }
-
-/* main #deteksi-dini input {
-  margin: 1% 2% 20% 0
-} */
 
 .btn-fixed
 {
@@ -300,16 +390,10 @@ main .teams .teams-1
 .active
 {
   background-color: #FFBC97;
-  color: white;
   display: inline-block;
-  padding: 2%;
   transition: ease .5s;
 }
 
-.active a
-{
-  color: white;
-}
 
 @media screen and (min-width: 450px) {
   .header .header-content {
@@ -322,15 +406,55 @@ main .teams .teams-1
     background-size: 100vmax;
   }
 
+  .btn-chat-
+  {
+    font-size: 2em;
+  }
+
+  .navigation .icon
+  {
+    display: none;
+  }
+
+  .menu-btn__list
+  {
+    display: none;
+  }
+  
   .header-content-title {
     background-color: unset;
   }
 
+  .colors
+  {
+    background-color: rgba(255, 120, 0, 0.9);
+    color: white;
+  }
+
+  .colors-1
+  {
+    background-color: transparent;
+    color: black;
+  }
+
+  .navigation .navigate
+  {
+    width: 40%;
+    height: 100%;
+  }
+
+  .navigation
+  {
+    max-height: 4em;
+  }
   .navigation ul {
     width: 60%;
     display: flex;
     list-style: none;
-    justify-content: space-between;
+    flex-direction: row;
+    padding-top: 20px;
+    margin-top: 10px;
+    color: bisque;
   }
 
   main .about p
@@ -349,16 +473,21 @@ main .teams .teams-1
     position: fixed;
     width: 100%;
     top: -80px;
+    justify-content: space-around;
   }
-  .navigation ul {
+
+  .navigation .navigate ul {
     display: flex;
-    list-style: none;
-    width: 30%;
+    width: 50%;
+    height: 100%;
     justify-content: space-between;
   }
 
+
   .navigation .icon {
+    display: flex;
     justify-items: flex-end;
+
   }
 
   header .header-content {
