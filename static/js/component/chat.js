@@ -30,7 +30,7 @@ class chatBott extends HTMLElement
                             <div class="row" id="default-chats">
                                 <div class="col-2">
                                     <div class="avatar rounded-circle">
-                                        <img src="/static/assets/logo-bot.png" alt="avatar-bot">
+                                        <img src="/static/assets/telbot-nobg.png" alt="avatar-bot">
                                     </div>
                                 </div>
                                 <div class="col-7 default-chat">
@@ -39,13 +39,10 @@ class chatBott extends HTMLElement
                             </div>
                             <div class="row chat-msg" id="chats"></div>
                     </div>
-                    <div class="btn-chat-bot">
-                        <div class="row">
-                            <div class="col">
-                                <input type="text" class="rounded-pill" id="input-question" name="input-question">
-                            </div>
-                            <div class="col rounded-circle btn-color">
-                                <button id="btn-send" class="btn" ><i class="fa fa-send rounded-circle set-btn"></i></button>
+                    <div class="row btn-chat-bot ">
+                        <div class="col-sm">
+                            <input class="rounded-pill" style="width:80%" type="text" id="input-question" name="input-question">
+                            <button class="btn" id="btn-send"><i class="fa fa-send rounded-circle set-btn"></i></button>
                             </div>
                         </div>
                     </div>
