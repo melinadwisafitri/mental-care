@@ -19,9 +19,9 @@ class contactTeam extends HTMLElement
                                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                                 <div class="row-sm">
                                     <div class="col-sm btn-group" role="group" aria-label="Basic example">
-                                        <a href="" class="fa fa-instagram"></a>
-                                        <a href="" class="fa fa-linkedin"></a>
-                                        <a href="" class="fa fa-envelope"></a>
+                                        <a href="https://www.instagram.com/melinasafi_/" class="fa fa-instagram"></a>
+                                        <a href="edin.com/in/melina-dwi-safitri-aa7121203/" class="fa fa-linkedin"></a>
+                                        <a href="melina18dwi@gmail.com" class="fa fa-envelope"></a>
                                         <wha href="" class="fa fa-whatsapp"></wha>
                                     </div>
                                 </div>
@@ -34,9 +34,9 @@ class contactTeam extends HTMLElement
                                 <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                                 <div class="row">
                                     <div class="col btn-group" role="group" aria-label="Basic example">
-                                        <a href="" class="fa fa-instagram"></a>
-                                        <a href="" class="fa fa-linkedin"></a>
-                                        <a href="" class="fa fa-envelope"></a>
+                                        <a href="https://www.instagram.com/megadewi2/" class="fa fa-instagram"></a>
+                                        <a href="https://www.linkedin.com/in/mega-dewi-giridrawardani-0abb401b5/" class="fa fa-linkedin"></a>
+                                        <a href="megadewi551@gmail.com" class="fa fa-envelope"></a>
                                         <a href="" class="fa fa-whatsapp"></a>
                                     </div>
                                 </div>
