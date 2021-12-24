@@ -9,10 +9,10 @@ class detectionBegin extends HTMLElement {
             <hr>
             <div class="row content">
                 <div class="col-sm">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias magnam pariatur facilis architecto accusamus repellat, saepe natus quo id molestias assumenda voluptatem non ipsam fugiat, placeat voluptate aliquam eum vel?</p>
+                    <p>Deteksi dini gangguan mental dapat membantu kita untuk mengenali gangguan mental pada diri serta dapat memutuskan langkah untuk pengobatan selanjutnya.</p>
                 </div>
                 <div class="col-sm colors">
-                    <p>Deteksi dini gangguan mental dapat membantu kita untuk mengenali gangguan mental pada diri serta dapat memutuskan langkah untuk pengobatan selanjutnya. Salah satu metode deteksi dini gangguan mental adalah metode kuesioner PHQ-9 (Patient Health Questionnaire-9). PHQ-9  merupakan instrumen psikometri yang paling sering digunakan untuk skrining deteksi dini depresi di fasilitas kesehatan primer..</p>
+                    <p>Salah satu metode deteksi dini gangguan mental adalah metode kuesioner PHQ-9 (Patient Health Questionnaire-9). PHQ-9  merupakan instrumen psikometri yang paling sering digunakan untuk skrining deteksi dini depresi di fasilitas kesehatan primer..</p>
                     <input class="btn btn-warning btn-pill" type="submit" value="Detection">
                 </div>
             </div>
